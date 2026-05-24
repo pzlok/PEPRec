@@ -1,0 +1,697 @@
+KO_name,KO_type,KO_equipment,KO_target,ZH_name,ZH_type,ZH_equipment,ZH_target,EN_name,EN_type,EN_equipment,EN_target
+벽패스,협응력,공,유소년,墙壁传球,协调力,球,少年,Wall Pass,Coordination,Ball,Juvenile
+십(十)자 드리블,협응력,라바콘/공,유소년,十字形运球,协调力,障碍锥/球,少年,Cross Dribbling,Coordination,Cones/Ball,Juvenile
+공 양손으로 주고 받기,협응력,공,유소년,双手传球,协调力,球,少年,Passing Ball with Both Hands,Coordination,Ball,Juvenile
+의자 잡고 반복 옆 뛰기,민첩성/순발력,맨몸/의자,유소년,抓住椅子侧向跳,敏捷性/反应速度,无/椅子,少年,Lateral Hops with Chair Support,Agility/Quickness,None/Chair,Juvenile
+양 손 번갈아 공 튀기기,협응력,공,유소년,交替手弹球,协调力,球,少年,Alternating Hands Ball Bouncing,Coordination,Ball,Juvenile
+라켓으로 공 치며 앞으로 가기,협응력,풍선/라켓,유소년,拍球前进,协调力,网球拍/气球,少年,Moving Forward While Hitting a Balloon with a Racket,Coordination,Racket/Balloon,Juvenile
+공 위로 던지고 제자리 돌아 받기,협응력,공,유소년,投球转身接球,协调力,球,少年,Throw Ball Up and Turn to Catch,Coordination,Ball,Juvenile
+무릎-허리 높이로 공 튀기기,협응력,공,유소년,膝盖至腰部高度弹球,协调力,球,少年,Bouncing Ball from Knee to Waist Height,Coordination,Ball,Juvenile
+계이름 치기,협응력,맨몸,유소년,节奏操,协调力,无,少年,Rhythmic Clapping,Coordination,None,Juvenile
+공 던져 색깔 맞추기,협응력,공,유소년,投球对色,协调力,球,少年,Throw Ball and Match Colors,Coordination,Ball,Juvenile
+훌라후프로 공 끌고 가기,협응력,공/훌라후프,유소년,用呼啦圈推球前进,协调力,球/呼啦圈,少年,Moving Ball with Hula Hoop,Coordination,Ball/Hula Hoop,Juvenile
+훌라후프하며 앞으로 가기,협응력,하프콘/훌라후프,유소년,前进时转呼啦圈,协调力,半锥/呼啦圈,少年,Moving Forward While Hula Hooping,Coordination,Half Cones/Hula Hoop,Juvenile
+반복 옆뛰기,민첩성/순발력,맨몸/줄/하프콘,유소년,重复侧向跳,敏捷性/反应速度,无/绳子/半锥,少年,Repeated Lateral Hops,Agility/Quickness,None/Rope/Half Cones,Juvenile
+2단 줄넘기,민첩성/순발력,맨몸/줄넘기,유소년,双层跳绳,敏捷性/反应速度,无/跳绳,少年,Double Dutch Jump Rope,Agility/Quickness,None/Jump Rope,Juvenile
+십(十)자 달리기,민첩성/순발력,맨몸/하프콘,유소년,十字形跑步,敏捷性/反应速度,无/半锥,少年,Cross Running,Agility/Quickness,None/Half Cones,Juvenile
+점프해서 발바닥 치기,민첩성/순발력,맨몸,유소년,跳起拍打脚掌,敏捷性/反应速度,无,少年,Jump and Slap Feet,Agility/Quickness,None,Juvenile
+제자리 멀리 뛰기,민첩성/순발력,맨몸,유소년,原地远跳,敏捷性/反应速度,无,少年,Standing Long Jump,Agility/Quickness,None,Juvenile
+연속 무릎 올리기,민첩성/순발력,맨몸/의자/줄/하프콘,유소년,连续抬膝,敏捷性/反应速度,无/椅子/绳/半锥,少年,Continuous Knee Raises,Agility/Quickness,None/Chair/Rope/Half Cones,Juvenile
+대(大)자 점프 뛰기,민첩성/순발력,맨몸,유소년,大字形跳跃,敏捷性/反应速度,无,少年,Star Jumps,Agility/Quickness,None,Juvenile
+S자 달리기,민첩성/순발력,맨몸/하프콘,유소년,S型跑步,敏捷性/反应速度,无/半锥,少年,S-Curve Running,Agility/Quickness,None/Half Cones,Juvenile
+4방향 콘 찍고 달리기,민첩성/순발력,맨몸/하프콘,유소년,四方向接触锥跑步,敏捷性/反应速度,无/半锥,少年,Four-Direction Cone Touch Running,Agility/Quickness,None/Half Cones,Juvenile
+콘 뛰어넘기,민첩성/순발력,맨몸/하프콘,유소년,跳过锥子,敏捷性/反应速度,无/半锥,少年,Cone Jumping,Agility/Quickness,None/Half Cones,Juvenile
+점프해서 손 발끝 닿기,민첩성/순발력,맨몸,유소년,跳起触手足尖,敏捷性/反应速度,无,少年,Jump and Touch Toes,Agility/Quickness,None,Juvenile
+점프하며 앞으로 나가기,민첩성/순발력,맨몸/하프콘,유소년,跳跃前进,敏捷性/反应速度,无/半锥,少年,Jump Forward,Agility/Quickness,None/Half Cones,Juvenile
+누워서 굽힌 다리 펴기,유연성,맨몸/밴드/수건/써클링,유소년,躺卧弯腿伸展,柔韧性,无/弹力带/毛巾/圈带,少年,Lying Leg Extension,Flexibility,None/Band/Towel/Circle Band,Juvenile
+잔발치기,민첩성/순발력,맨몸,유소년,脚尖踢击,敏捷性/反应速度,无,少年,Toe Taps,Agility/Quickness,None,Juvenile
+벽잡고 빨리 뛰기,민첩성/순발력,맨몸,유소년,抓墙快跑,敏捷性/反应速度,无,少年,Wall-Assisted Quick Running,Agility/Quickness,None,Juvenile
+한 발 뒤로 빼고 앞으로 굽히기,유연성,맨몸,유소년,后踵提前弯曲,柔韧性,无,少年,Back Heel Lift and Forward Bend,Flexibility,None,Juvenile
+엎드려 상체 들어올리기,유연성,맨몸,유소년,俯卧撑起上半身,柔韧性,无,少年,Prone Upper Body Lift,Flexibility,None,Juvenile
+다리 모아 뒤로 눕기,유연성,공/맨몸/써클휠,유소년,合腿仰卧,柔韧性,球/无/圆轮,少年,Lying Back with Legs Together,Flexibility,Ball/None/Circle Wheel,Juvenile
+활 자세,유연성,맨몸/밴드/수건/써클링,유소년,弓形姿势,柔韧性,无/弹力带/毛巾/圈带,少年,Bow Pose,Flexibility,None/Band/Towel/Circle Band,Juvenile
+엎드려 어깨 늘리기,유연성,공/맨몸/써클휠,유소년,俯卧伸展肩部,柔韧性,球/无/圆轮,少年,Prone Shoulder Stretch,Flexibility,Ball/None/Circle Wheel,Juvenile
+엎드려 교차 발 잡아당기기,유연성,맨몸,유소년,俯卧交叉抓脚,柔韧性,无,少年,Prone Cross-Leg Pull,Flexibility,None,Juvenile
+무릎 대고 옆으로 기울이기,유연성,막대/맨몸/밴드/써클링,유소년,跪姿侧身倾斜,柔韧性,棒/无/弹力带/圆环,少年,Kneeling Side Lean,Flexibility,Rod/None/Band/Circle Band,Juvenile
+팔 빨리 흔들기,민첩성/순발력,맨몸,유소년,快速摆动手臂,敏捷性/反应速度,无,少年,Fast Arm Shaking,Agility/Quickness,None,Juvenile
+50M 달리기,민첩성/순발력,맨몸,유소년,50米短跑,敏捷性/反应速度,无,少年,50-Meter Dash,Agility/Quickness,None,Juvenile
+다리 벌려 옆으로 상체 숙이기,유연성,맨몸,유소년,张开双腿侧身弯腰,柔韧性,无,少年,Wide-Legged Side Bend,Flexibility,None,Juvenile
+다리 벌려 앞으로 상체 숙이기,유연성,맨몸,유소년,张开双腿前倾,柔韧性,无,少年,Wide-Legged Forward Bend,Flexibility,None,Juvenile
+발목 얹고 다리 잡아당기기,유연성,맨몸,유소년,抬脚拉伸,柔韧性,无,少年,Ankle-on-Knee Leg Pull,Flexibility,None,Juvenile
+다리 모아 상체 숙이기,유연성,맨몸,유소년,合腿前倾,柔韧性,无,少年,Forward Bend with Legs Together,Flexibility,None,Juvenile
+발바닥 마주대고 끌어당기기,유연성,맨몸,유소년,脚掌相对拉近,柔韧性,无,少年,Butterfly Stretch,Flexibility,None,Juvenile
+다리 굽혀(W자) 상체 뒤로 눕기,유연성,맨몸,유소년,W型腿仰卧,柔韧性,无,少年,Lying Back with W Legs,Flexibility,None,Juvenile
+앉아서 옆구리 늘려주기,유연성,맨몸,유소년,坐姿侧身伸展,柔韧性,无,少年,Seated Side Stretch,Flexibility,None,Juvenile
+앉아서 한 발 앞으로 굽히기,유연성,맨몸/밴드,유소년,坐姿单腿前伸,柔韧性,无/弹力带,少年,Seated Single Leg Forward Bend,Flexibility,None/Band,Juvenile
+한 발 앞굽이 팔 위로 뻗어 가슴 내밀기,유연성,맨몸,유소년,单腿前弯伸展双臂,柔韧性,无,少年,Single Leg Forward Bend with Arm Stretch,Flexibility,None,Juvenile
+앉아 윗몸 앞으로 굽히기,유연성,맨몸,유소년,坐姿前弯,柔韧性,无,少年,Seated Forward Bend,Flexibility,None,Juvenile
+다리 꼬아 상체 앞으로 숙이기,유연성,맨몸,유소년,坐姿交叉腿前弯,柔韧性,无,少年,Seated Crossed-Leg Forward Bend,Flexibility,None,Juvenile
+무릎 대고 상체 뒤로 젖히기,유연성,맨몸,유소년,跪姿后仰,柔韧性,无,少年,Kneeling Backbend,Flexibility,None,Juvenile
+1단 줄넘기,심폐지구력,줄넘기,유소년,单人跳绳,心肺耐力,跳绳,少年,Single Rope Jumping,Cardiovascular Endurance,Jump Rope,Juvenile
+무릎 굽혀 가슴 닿기,유연성,맨몸,유소년,弯膝触胸,柔韧性,无,少年,Knee to Chest Touch,Flexibility,None,Juvenile
+계단 오르기,심폐지구력,맨몸/스텝박스/스텝퍼,유소년,爬楼梯,心肺耐力,无/踏步箱/踏步机,少年,Stair Climbing,Cardiovascular Endurance,None/Step Box/Stepper,Juvenile
+제자리 뛰기,심폐지구력,맨몸/밴드,유소년,原地跳跃,心肺耐力,无/弹力带,少年,Running in Place,Cardiovascular Endurance,None/Band,Juvenile
+왕복달리기,심폐지구력,라바콘/공/맨몸,유소년,往返跑,心肺耐力,路障锥/球/无,少年,Shuttle Run,Cardiovascular Endurance,Cones/Ball/None,Juvenile
+박스 옆으로 번갈아 뛰기,심폐지구력,맨몸/스텝박스,유소년,盒子侧向跳,心肺耐力,无/踏步箱,少年,Lateral Box Shuffles,Cardiovascular Endurance,None/Step Box,Juvenile
+한 발 무릎위 올려차기,심폐지구력,맨몸/스텝박스,유소년,单腿提膝踢,心肺耐力,无/踏步箱,少年,Single Leg Knee Drive Kick,Cardiovascular Endurance,None/Step Box,Juvenile
+박스 오르내리기,심폐지구력,맨몸/스텝박스,유소년,盒子上下跳,心肺耐力,无/踏步箱,少年,Box Step-Ups and Downs,Cardiovascular Endurance,None/Step Box,Juvenile
+엎드려 무릎 연속 차기,심폐지구력,맨몸,유소년,俯卧连续踢膝,心肺耐力,无,少年,Prone Continuous Knee Kicks,Cardiovascular Endurance,None,Juvenile
+다리 모았다 벌려 뛰기,심폐지구력,맨몸/스텝박스,유소년,收合跳,心肺耐力,无/踏步箱,少年,Jumping Jacks,Cardiovascular Endurance,None/Step Box,Juvenile
+허리 비틀어 앉았다 일어서기,근력/근지구력,공/맨몸,유소년,扭腰坐起站立,肌肉力量/肌肉耐力,球/无,少年,Twist and Stand from Seated Position,Muscle Strength/Muscular Endurance,Ball/None,Juvenile
+무릎 올려 공 닿기,근력/근지구력,공/맨몸,유소년,抬膝触球,肌肉力量/肌肉耐力,球/无,少年,Knee Raise to Ball Touch,Muscle Strength/Muscular Endurance,Ball/None,Juvenile
+다리 앞뒤로 벌려 굽혔다 펴기,근력/근지구력,맨몸,유소년,前后分腿蹲起,肌肉力量/肌肉耐力,无,少年,Alternating Split Squats,Muscle Strength/Muscular Endurance,None,Juvenile
+발 뒤꿈치 들어올리기,근력/근지구력,맨몸/의자,유소년,提踵,肌肉力量/肌肉耐力,无/椅子,少年,Calf Raises,Muscle Strength/Muscular Endurance,None/Chair,Juvenile
+앞발 의자 올려 굽히기,근력/근지구력,맨몸/의자,유소년,椅子上单腿蹲,肌肉力量/肌肉耐力,无/椅子,少年,Elevated Single-Leg Squats,Muscle Strength/Muscular Endurance,None/Chair,Juvenile
+의자에 앉아 다리 펴서 들어올리기,근력/근지구력,맨몸/밴드/의자,유소년,坐姿抬直腿,肌肉力量/肌肉耐力,无/弹力带/椅子,少年,Seated Leg Extensions,Muscle Strength/Muscular Endurance,None/Band/Chair,Juvenile
+앞으로 나가며 앉았다 일어서기,근력/근지구력,맨몸/의자,유소년,前进蹲起,肌肉力量/肌肉耐力,无/椅子,少年,Forward Step and Stand,Muscle Strength/Muscular Endurance,None/Chair,Juvenile
+다리 옆으로 들어올리기,근력/근지구력,맨몸/의자,유소년,侧抬腿,肌肉力量/肌肉耐力,无/椅子,少年,Lateral Leg Raises,Muscle Strength/Muscular Endurance,None/Chair,Juvenile
+앞발 들어올리기,근력/근지구력,맨몸/의자,유소년,提前脚,肌肉力量/肌肉耐力,无/椅子,少年,Front Foot Raises,Muscle Strength/Muscular Endurance,None/Chair,Juvenile
+교차 다리 굽히기,근력/근지구력,맨몸/물병,유소년,交叉腿弯曲,肌肉力量/肌肉耐力,无/水瓶,少年,Crossed Legs Bend,Muscle Strength/Muscular Endurance,None/Water Bottles,Juvenile
+뒷발 의자 올려 굽히기,근력/근지구력,맨몸/의자,유소년,后脚抬高蹲,肌肉力量/肌肉耐力,无/椅子,少年,Elevated Rear Foot Squat,Muscle Strength/Muscular Endurance,None/Chair,Juvenile
+밴드 잡고 무릎펴기,근력/근지구력,맨몸/밴드,유소년,拉力带膝伸展,肌肉力量/肌肉耐力,无/拉力带,少年,Knee Extensions with Band,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+밴드 잡고 다리 옆으로 벌리기,근력/근지구력,맨몸/밴드,유소년,拉力带侧腿抬,肌肉力量/肌肉耐力,无/拉力带,少年,Lateral Leg Raises with Band,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+밴드 한 발 뒤로 들기,근력/근지구력,맨몸/밴드/의자,유소년,拉力带单腿后抬,肌肉力量/肌肉耐力,无/拉力带/椅子,少年,Single Leg Rear Lift with Band,Muscle Strength/Muscular Endurance,None/Resistance Band/Chair,Juvenile
+앉았다 일어서기,근력/근지구력,공/의자,유소년,坐起站立,肌肉力量/肌肉耐力,球/椅子,少年,Sit to Stand,Muscle Strength/Muscular Endurance,Ball/Chair,Juvenile
+엎드려 다리 들어올리기,근력/근지구력,맨몸,유소년,俯卧抬腿,肌肉力量/肌肉耐力,无,少年,Prone Leg Lifts,Muscle Strength/Muscular Endurance,None,Juvenile
+옆으로 누워 다리 들어올리기,근력/근지구력,맨몸,유소년,侧卧抬腿,肌肉力量/肌肉耐力,无,少年,Side-Lying Leg Lifts,Muscle Strength/Muscular Endurance,None,Juvenile
+팔로 써클링 누르기,근력/근지구력,공/써클링,유소년,推压圆环,肌肉力量/肌肉耐力,球/圆环,少年,Circle Press,Muscle Strength/Muscular Endurance,Ball/Circle Ring,Juvenile
+V자 버티기,근력/근지구력,공/맨몸/써클링,유소년,V字坐姿支撑,肌肉力量/肌肉耐力,球/无/圆环,少年,V-Sit Hold,Muscle Strength/Muscular Endurance,Ball/None/Circle Ring,Juvenile
+무릎 굽혀 엉덩이 들어올리기,근력/근지구력,맨몸,유소년,屈膝提臀,肌肉力量/肌肉耐力,无,少年,Hip Lifts with Bent Knees,Muscle Strength/Muscular Endurance,None,Juvenile
+옆으로 누워 무릎 벌리기,근력/근지구력,맨몸,유소년,侧卧开合腿,肌肉力量/肌肉耐力,无,少年,Side-Lying Clamshells,Muscle Strength/Muscular Endurance,None,Juvenile
+옆으로 다리 뻗기,근력/근지구력,맨몸,유소년,侧卧腿伸展,肌肉力量/肌肉耐力,无,少年,Side-Lying Leg Extension,Muscle Strength/Muscular Endurance,None,Juvenile
+무릎 구부려 상체 비틀기,근력/근지구력,공/맨몸,유소년,屈膝扭转上体,肌肉力量/肌肉耐力,球/无,少年,Seated Twist with Bent Knees,Muscle Strength/Muscular Endurance,Ball/None,Juvenile
+밴드 앞으로 당기기,근력/근지구력,맨몸/밴드,유소년,拉力带前拉,肌肉力量/肌肉耐力,无/拉力带,少年,Band Chest Press,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+공 잡고 상체 들어올리기,근력/근지구력,공,유소년,拿球抬起上半身,肌肉力量/肌肉耐力,球,少年,Upper Body Lift with Ball,Muscle Strength/Muscular Endurance,Ball,Juvenile
+써클휠로 다리 끌어당기기,근력/근지구력,공/맨몸/써클휠,유소년,圆轮拉腿,肌肉力量/肌肉耐力,球/无/圆轮,少年,Ab Wheel Leg Pulls,Muscle Strength/Muscular Endurance,Ball/None/Circle Wheel,Juvenile
+윗몸말아올리기,근력/근지구력,맨몸/밴드,유소년,仰卧起坐,肌肉力量/肌肉耐力,无/弹力带,少年,Sit-Ups,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+엎드려 무릎 당기기,근력/근지구력,맨몸,유소년,俯卧抬膝,肌肉力量/肌肉耐力,无,少年,Prone Knee Tucks,Muscle Strength/Muscular Endurance,None,Juvenile
+머리 뒤로 깍지 끼고 상체 숙이기,근력/근지구력,맨몸,유소년,双手交叉后抱低头弯腰,肌肉力量/肌肉耐力,无,少年,Forward Bend with Hands Clasped Behind Head,Muscle Strength/Muscular Endurance,None,Juvenile
+팔 구부려 등 모으기,근력/근지구력,맨몸,유소년,弯臂背后手碰,肌肉力量/肌肉耐力,无,少年,Elbow-to-Hand Behind-the-Back Touch,Muscle Strength/Muscular Endurance,None,Juvenile
+앉아서 다리 펴서 들어올리기,근력/근지구력,맨몸,유소년,坐姿抬直腿,肌肉力量/肌肉耐力,无,少年,Seated Leg Lifts,Muscle Strength/Muscular Endurance,None,Juvenile
+옆으로 팔 대고 버티기,근력/근지구력,맨몸,유소년,侧臂支撑,肌肉力量/肌肉耐力,无,少年,Side Plank Hold,Muscle Strength/Muscular Endurance,None,Juvenile
+팔꿈치-무릎 교차 닿기,근력/근지구력,맨몸,유소년,肘膝交叉触碰,肌肉力量/肌肉耐力,无,少年,Elbow to Knee Cross Touch,Muscle Strength/Muscular Endurance,None,Juvenile
+앉아서 밴드 당기기,근력/근지구력,맨몸/밴드,유소년,坐姿拉力带拉伸,肌肉力量/肌肉耐力,无/拉力带,少年,Seated Band Pulls,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+다리 올려 의자넘기,근력/근지구력,맨몸,유소년,抬腿越过椅子,肌肉力量/肌肉耐力,无,少年,Leg Raises Over Chair,Muscle Strength/Muscular Endurance,None,Juvenile
+누워서 다리 펴고 원 그리기,근력/근지구력,맨몸,유소년,仰卧抬腿画圆,肌肉力量/肌肉耐力,无,少年,Lying Leg Circles,Muscle Strength/Muscular Endurance,None,Juvenile
+밴드 다리 올려 버티기,근력/근지구력,맨몸/밴드,유소년,拉力带抬腿保持,肌肉力量/肌肉耐力,无/拉力带,少年,Band-Assisted Leg Hold,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+밴드로 다리 들어 올려 버티기,근력/근지구력,맨몸/밴드,유소년,拉力带腿部抬起保持,肌肉力量/肌肉耐力,无/拉力带,少年,Resistance Band Leg Hold,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+팔굽혀펴기,근력/근지구력,맨몸,유소년,俯卧撑,肌肉力量/肌肉耐力,无,少年,Push-Ups,Muscle Strength/Muscular Endurance,None,Juvenile
+슈퍼맨자세,근력/근지구력,맨몸,유소년,超人姿势,肌肉力量/肌肉耐力,无,少年,Superman Pose,Muscle Strength/Muscular Endurance,None,Juvenile
+엎드려 팔 대고 버티기,근력/근지구력,맨몸,유소년,俯卧撑起撑,肌肉力量/肌肉耐力,无,少年,Plank Hold,Muscle Strength/Muscular Endurance,None,Juvenile
+엎드려 팔로 걷기,근력/근지구력,맨몸,유소년,俯卧手行走,肌肉力量/肌肉耐力,无,少年,Plank Walks,Muscle Strength/Muscular Endurance,None,Juvenile
+의자 잡고 팔 뒤로 굽히기,근력/근지구력,맨몸/의자,유소년,握椅后屈手臂,肌肉力量/肌肉耐力,无/椅子,少年,Chair-Assisted Tricep Dips,Muscle Strength/Muscular Endurance,None/Chair,Juvenile
+밴드 어깨 뒤로 들어올리기,근력/근지구력,밴드,유소년,拉力带肩部后拉,肌肉力量/肌肉耐力,拉力带,少年,Resistance Band Shoulder Pullbacks,Muscle Strength/Muscular Endurance,Resistance Band,Juvenile
+아령 뒤로 들어올리기,근력/근지구력,물병,유소년,哑铃后举,肌肉力量/肌肉耐力,水瓶,少年,Dumbbell Rear Lifts,Muscle Strength/Muscular Endurance,Water Bottles,Juvenile
+밴드 앞 옆으로 들어올리기,근력/근지구력,맨몸/밴드,유소년,拉力带前侧平举,肌肉力量/肌肉耐力,无/拉力带,少年,Resistance Band Front and Lateral Raises,Muscle Strength/Muscular Endurance,None/Resistance Band,Juvenile
+앉아서 엉덩이 들고 이동하기,근력/근지구력,맨몸,유소년,坐姿臀部抬起移动,肌肉力量/肌肉耐力,无,少年,Seated Hip Lift and Move,Muscle Strength/Muscular Endurance,None,Juvenile
+아령 앞으로 들어올리기,근력/근지구력,물병,유소년,前平举,肌肉力量/肌肉耐力,水瓶,少年,Front Raises,Muscle Strength/Muscular Endurance,Water Bottles,Juvenile
+엎드려 상체 들어올리기,근력/근지구력,맨몸,유소년,俯卧抬起上半身,肌肉力量/肌肉耐力,无,少年,Prone Upper Body Lift,Muscle Strength/Muscular Endurance,None,Juvenile
+누워서 뒤로 팔굽혀펴기,근력/근지구력,맨몸,유소년,仰卧屈臂伸展,肌肉力量/肌肉耐力,无,少年,Lying Tricep Extensions,Muscle Strength/Muscular Endurance,None,Juvenile
+협응력 향상 프로그램_계이름 치기,협응력,맨몸,유소년,协调能力提升计划 - 踢毽子,协调力,无,少年,Coordination Improvement Program - Shuttlecock Kicking,Coordination,None,Juvenile
+유소년테스트,다양한 체력 항목,다양한 운동 도구,유소년,青少年测试,各种体能项目,各种运动器材,少年,Teenagers Test,Various Physical Elements,Various Exercise Equipment,Juvenile
+정적 스트레칭  루틴프로그램,유연성,맨몸,청소년,静态伸展训练计划,柔韧性,无,青少年,Static Stretching Routine Program,Flexibility,None,Teenagers
+맨몸운동  루틴프로그램,근력/근지구력,맨몸,청소년,无器械训练计划,肌力/肌耐力,无,青少年,Bodyweight Exercise Routine Program,Muscle Strength/Muscular Endurance,None,Teenagers
+요가 및 필라테스  루틴프로그램,유연성,맨몸,청소년,瑜伽及普拉提训练计划,柔韧性,无,青少年,Yoga and Pilates Routine Program,Flexibility,None,Teenagers
+저항밴드 운동  루틴프로그램,근력/근지구력,밴드,청소년,抗阻带训练计划,肌力/肌耐力,带子,青少年,Resistance Band Workout Routine,Muscle Strength/Muscular Endurance,Band,Teenagers
+웨이트 트레이닝  루틴프로그램,근력/근지구력,웨이트기계,청소년,杠铃训练计划,肌力/肌耐力,杠铃机,青少年,Weight Training Routine Program,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+바운딩 운동  루틴프로그램,민첩성/순발력,맨몸,청소년,跳跃训练计划,敏捷性/爆发力,无,青少年,Bounding Exercise Routine Program,Agility/Explosiveness,None,Teenagers
+메디신볼 운동  루틴프로그램,협응력,공,청소년,医疗球训练计划,协调力,球,青少年,Medicine Ball Exercise Routine Program,Coordination,Ball,Teenagers
+짝 스트레칭  루틴프로그램,유연성,맨몸,청소년,伙伴伸展训练计划,柔韧性,无,青少年,Partner Stretching Routine Program,Flexibility,None,Teenagers
+사다리 운동  루틴프로그램,민첩성/순발력,사다리,청소년,梯子训练计划,敏捷性/爆发力,梯子,青少年,Ladder Exercise Routine Program,Agility/Explosiveness,Ladder,Teenagers
+박스 운동  루틴프로그램,민첩성/순발력,스텝박스,청소년,箱台训练计划,敏捷性/爆发力,台阶箱,青少年,Box Exercise Routine Program,Agility/Explosiveness,Step Box,Teenagers
+짐볼 운동  루틴프로그램,협응력,짐볼,청소년,健身球训练计划,协调力,健身球,青少年,Gym Ball Exercise Routine Program,Coordination,Gym Ball,Teenagers
+콘운동  루틴프로그램,민첩성/순발력,하프콘,청소년,圆锥体训练计划,敏捷性/爆发力,半圆锥体,青少年,Cone Exercise Routine Program,Agility/Explosiveness,Half Cone,Teenagers
+동적 스트레칭 루틴프로그램,유연성,맨몸,청소년,动态拉伸训练计划,柔韧性,无,青少年,Dynamic Stretching Routine Program,Flexibility,None,Teenagers
+양발 벌려 무릎 밀어내기,유연성,맨몸,청소년,双腿分开推膝运动,柔韧性,无,青少年,Seated Leg Press Stretch,Flexibility,None,Teenagers
+양발 교차하여 서서 몸통 숙이기,유연성,맨몸,청소년,交叉站立身体前倾,柔韧性,无,青少年,Standing Forward Bend with Crossed Legs,Flexibility,None,Teenagers
+온 몸 뻗어주기,유연성,맨몸,청소년,全身伸展,柔韧性,无,青少年,Full Body Stretch,Flexibility,None,Teenagers
+다리모아 무릎 누르기,유연성,맨몸,청소년,膝部压缩伸展,柔韧性,无,青少年,Knee-to-Chest Stretch,Flexibility,None,Teenagers
+누워 발목 당겨주기,유연성,맨몸,청소년,仰卧脚踝拉伸,柔韧性,无,青少年,Supine Ankle Stretch,Flexibility,None,Teenagers
+서서 발목 뒤로 당기기,유연성,맨몸,청소년,站立脚踝向后拉伸,柔韧性,无,青少年,Standing Ankle Pull Back Stretch,Flexibility,None,Teenagers
+서서 발목 누르기,유연성,맨몸,청소년,站立脚踝按压,柔韧性,无,青少年,Standing Ankle Press,Flexibility,None,Teenagers
+의자에 앉아 옆구리 숙이기,유연성,의자,청소년,坐椅侧身屈体,柔韧性,椅子,青少年,Seated Side Bend,Flexibility,Chair,Teenagers
+다리뻗어 상체 숙이기,유연성,맨몸,청소년,伸直腿部前屈,柔韧性,无,青少年,Seated Forward Fold with Legs Extended,Flexibility,None,Teenagers
+무릎당겨 다리 올리기,유연성,맨몸,청소년,拉膝上举,柔韧性,无,青少年,Knee-to-Chest Leg Raise,Flexibility,None,Teenagers
+무릎 당겨올리기,유연성,의자,청소년,拉膝上举,柔韧性,椅子,青少年,Knee-to-Chest Raise,Flexibility,Chair,Teenagers
+몸통 스트레칭,유연성,맨몸,청소년,躯干伸展,柔韧性,无,青少年,Torso Stretching,Flexibility,None,Teenagers
+옆구리 스트레칭,유연성,맨몸,청소년,侧腰伸展,柔韧性,无,青少年,Side Stretch,Flexibility,None,Teenagers
+척추 들어올리기,유연성,맨몸,청소년,抬高脊椎,柔韧性,无,青少年,Spinal Lift,Flexibility,None,Teenagers
+엎드려 상체 들어올리기,유연성,맨몸,청소년,俯卧抬高上半身,柔韧性,无,青少年,Prone Upper Body Lift,Flexibility,None,Teenagers
+서서 한팔 들어 오른쪽 왼쪽 뻗기,유연성,맨몸,청소년,站立单臂向左右伸展,柔韧性,无,青少年,Standing Single Arm Reach to Left and Right,Flexibility,None,Teenagers
+의자에 앉아 가슴 몸통 말아주기,유연성,의자,청소년,坐椅胸部屈体,柔韧性,椅子,青少年,Seated Chair Chest Stretch,Flexibility,Chair,Teenagers
+팔꿈치 머리 뒤로 젖히기,유연성,맨몸,청소년,弯曲肘部触及头部后方,柔韧性,无,青少年,Elbow Touch Behind Head,Flexibility,None,Teenagers
+다리굽혀 허리 비틀기,유연성,맨몸,청소년,弯腰扭动身体,柔韧性,无,青少年,Leg Bend with Waist Twist,Flexibility,None,Teenagers
+목 당기기,유연성,맨몸,청소년,拉伸颈部,柔韧性,无,青少年,Neck Pull,Flexibility,None,Teenagers
+깍지끼고 목 들어올리기,유연성,맨몸,청소년,戴手指套仰头,柔韧性,无,青少年,Finger Hook Neck Lift,Flexibility,None,Teenagers
+의자에 앉아 몸통비틀기,유연성,의자,청소년,坐椅扭动躯干,柔韧性,椅子,青少年,Seated Chair Torso Twist,Flexibility,Chair,Teenagers
+의자에 앉아 가슴 뒤로 젖히기,유연성,의자,청소년,坐椅背后拉伸胸部,柔韧性,椅子,青少年,Seated Chair Chest Stretch,Flexibility,Chair,Teenagers
+전신 비틀며 전진하기,유연성,맨몸,청소년,躯干扭转前进,柔韧性,无,青少年,Torso Twist Forward,Flexibility,None,Teenagers
+허리숙여 양팔 돌리기,유연성,맨몸,청소년,弯腰转动双臂,柔韧性,无,青少年,Bent-Over Arm Rotation,Flexibility,None,Teenagers
+자세낮춰 이동하기,유연성,맨몸,청소년,低姿势移动,柔韧性,无,青少年,Low Position Movement,Flexibility,None,Teenagers
+빠르게 무릎 올려 찍기,유연성,맨몸,청소년,快速提膝,柔韧性,无,青少年,Fast Knee Raises,Flexibility,None,Teenagers
+전진 점프하며 발바닥 찍기,유연성,맨몸,청소년,前跳脚底拍击,柔韧性,无,青少年,Forward Jump with Foot Tap,Flexibility,None,Teenagers
+전진 점프하며 발 뒤꿈치 찍기,유연성,맨몸,청소년,前跳踢后跟,柔韧性,无,青少年,Forward Jump with Heel Kick,Flexibility,None,Teenagers
+팔 돌리며 점프하기,유연성,맨몸,청소년,转动手臂跳跃,柔韧性,无,青少年,Jumping with Arm Rotations,Flexibility,None,Teenagers
+다리 들어올리기,유연성,맨몸,청소년,抬腿,柔韧性,无,青少年,Leg Raises,Flexibility,None,Teenagers
+네발 걷기,유연성,맨몸,청소년,四肢行走,柔韧性,无,青少年,Quadruped Walk,Flexibility,None,Teenagers
+옆으로 팔 벌리며 점프하기,유연성,맨몸,청소년,侧跳开双臂,柔韧性,无,青少年,Side Jump with Arm Extension,Flexibility,None,Teenagers
+다리벌려 풍차돌기,유연성,맨몸,청소년,开腿风车,柔韧性,无,青少年,Straddle Windmill,Flexibility,None,Teenagers
+한발들어 좌우 돌리기,유연성,맨몸,청소년,单脚站立左右转动,柔韧性,无,青少年,Single Leg Rotations Left and Right,Flexibility,None,Teenagers
+팔꿈치 원 그리기,유연성,맨몸,청소년,画肘部圆圈,柔韧性,无,青少年,Elbow Circles,Flexibility,None,Teenagers
+목 돌리기,유연성,맨몸,청소년,转动颈部,柔韧性,无,青少年,Neck Rotation,Flexibility,None,Teenagers
+무릎굽혀 원 그리기,유연성,맨몸,청소년,屈膝绘圆,柔韧性,无,青少年,Knee Circles,Flexibility,None,Teenagers
+상체 앞으로 숙이기,유연성,맨몸,청소년,上身前倾,柔韧性,无,青少年,Forward Bend,Flexibility,None,Teenagers
+다리들어 옆으로 올리기,유연성,맨몸,청소년,侧向抬腿,柔韧性,无,青少年,Side Leg Raises,Flexibility,None,Teenagers
+무릎 들어올리기,유연성,맨몸,청소년,抬膝,柔韧性,无,青少年,Knee Raises,Flexibility,None,Teenagers
+엉덩이 늘리기,유연성,맨몸,청소년,扩展臀部,柔韧性,无,青少年,Hip Stretch,Flexibility,None,Teenagers
+한쪽 다리펴고 상체 숙이기,유연성,맨몸,청소년,一腿伸直身体前倾,柔韧性,无,青少年,Forward Bend with One Leg Extended,Flexibility,None,Teenagers
+앉아서 상체 앞 옆으로 기울기,유연성,맨몸,청소년,坐姿身体前侧倾,柔韧性,无,青少年,Seated Forward Side Bend,Flexibility,None,Teenagers
+발등 동시에 늘리기,유연성,맨몸,청소년,同时伸展脚背,柔韧性,无,青少年,Simultaneous Toe Extension,Flexibility,None,Teenagers
+웅크리고 앉아 손잡고 상체 숙이기,유연성,맨몸,청소년,蹲下并握住双手前倾,柔韧性,无,青少年,Squat and Forward Bend with Hands Holding,Flexibility,None,Teenagers
+마주보고 종아리 펴기,유연성,맨몸,청소년,相对伸展小腿肌肉,柔韧性,无,青少年,Calf Stretch Facing Each Other,Flexibility,None,Teenagers
+몸통 비틀기,유연성,맨몸,청소년,躯干扭转,柔韧性,无,青少年,Trunk Rotation,Flexibility,None,Teenagers
+팔 당기기,유연성,맨몸,청소년,拉伸臂部肌肉,柔韧性,无,青少年,Arm Stretch,Flexibility,None,Teenagers
+시소우,유연성,맨몸,청소년,坐姿屈伸腿部,柔韧性,无,青少年,Seated Leg Flexibility,Flexibility,None,Teenagers
+나무자세,유연성,맨몸,청소년,树姿式,柔韧性,无,青少年,Tree Pose,Flexibility,None,Teenagers
+마주보고 상체 좌우 비틀기,유연성,맨몸,청소년,对面扭转上身,柔韧性,无,青少年,Twisting Upper Body Facing Each Other,Flexibility,None,Teenagers
+겨드랑이 늘리기,유연성,맨몸,청소년,伸展腋窝,柔韧性,无,青少年,Armpit Stretch,Flexibility,None,Teenagers
+어깨 누르기,유연성,맨몸,청소년,压肩,柔韧性,无,青少年,Shoulder Press,Flexibility,None,Teenagers
+목 스트레칭,유연성,맨몸,청소년,颈部伸展,柔韧性,无,青少年,Neck Stretch,Flexibility,None,Teenagers
+측면 팔대고 버티기,유연성,맨몸,청소년,侧身伸展支撑,柔韧性,无,青少年,Side Arm Plank,Flexibility,None,Teenagers
+레그 스윙,유연성,맨몸,청소년,腿部摆动,柔韧性,无,青少年,Leg Swing,Flexibility,None,Teenagers
+가슴 어깨 펴기,유연성,맨몸,청소년,胸部和肩部伸展,柔韧性,无,青少年,Chest and Shoulder Stretch,Flexibility,None,Teenagers
+나란히 서서 손잡고 끌어당기기,유연성,맨몸,청소년,并排站立拉伸,柔韧性,无,青少年,Side-by-Side Standing Pull,Flexibility,None,Teenagers
+전사자세,유연성,맨몸,청소년,倒立姿势,柔韧性,无,青少年,Handstand,Flexibility,None,Teenagers
+합장하여 앞으로 숙이기,유연성,맨몸,청소년,合并弯腰,柔韧性,无,青少年,Forward Bend with Hug,Flexibility,None,Teenagers
+휴식자세,유연성,맨몸,청소년,休息姿势,柔韧性,无,青少年,Resting Pose,Flexibility,None,Teenagers
+아기자세,유연성,맨몸,청소년,婴儿式,柔韧性,无,青少年,Child's Pose,Flexibility,None,Teenagers
+앉은 산 자세,유연성,맨몸,청소년,坐山式,柔韧性,无,青少年,Seated Mountain Pose,Flexibility,None,Teenagers
+소머리 자세,유연성,맨몸,청소년,小头式,柔韧性,无,青少年,Child's Pose,Flexibility,None,Teenagers
+전갈자세,유연성,맨몸,청소년,蝎子式,柔韧性,无,青少年,Scorpion Pose,Flexibility,None,Teenagers
+회전 초승달 자세,유연성,맨몸,청소년,旋转半月式,柔韧性,无,青少年,Revolved Crescent Lunge Pose,Flexibility,None,Teenagers
+결가부좌,유연성,맨몸,청소년,金刚坐,柔韧性,无,青少年,Thunderbolt Pose,Flexibility,None,Teenagers
+다리자세,유연성,맨몸,청소년,伸展腿姿势,柔韧性,无,青少年,Leg Stretch Pose,Flexibility,None,Teenagers
+모관운동,유연성,맨몸,청소년,膝胸卷腹,柔韧性,无,青少年,Knee to Chest Crunch,Flexibility,None,Teenagers
+스타 투 니 풀,유연성,맨몸,청소년,星形至膝拉伸,柔韧性,无,青少年,Star Turn Knee Pull,Flexibility,None,Teenagers
+고양이 자세,유연성,맨몸,청소년,猫式,柔韧性,无,青少年,Cat Pose,Flexibility,None,Teenagers
+복식호흡,유연성,맨몸,청소년,腹式呼吸,柔韧性,无,青少年,Diaphragmatic Breathing,Flexibility,None,Teenagers
+나비자세,유연성,맨몸,청소년,蝴蝶式,柔韧性,无,青少年,Butterfly Pose,Flexibility,None,Teenagers
+반달자세,유연성,맨몸,청소년,半月式,柔韧性,无,青少年,Half Moon Pose,Flexibility,None,Teenagers
+발목 돌리기,유연성,맨몸,청소년,旋转脚踝,柔韧性,无,青少年,Ankle Rotation,Flexibility,None,Teenagers
+발 끝 당기기,유연성,맨몸,청소년,拉伸脚尖,柔韧性,无,青少年,Toe Stretch,Flexibility,None,Teenagers
+런지하며 상체 비틀기,근력/근지구력,밴드,청소년,做弓步并扭转上半身,肌力/肌耐力,无,青少年,Lunges with Upper Body Twist,Strength/Endurance,None,Teenagers
+앉았다 일어서며 팔 들어올리기,근력/근지구력,밴드,청소년,坐起站立并抬高手臂,力量/耐力,无,青少年,Sit-to-Stand with Arm Raise,Strength/Endurance,None,Teenagers
+왜가리 자세,유연성,맨몸,청소년,低头式,柔韧性,无,青少年,Child's Pose,Flexibility,None,Teenagers
+누워 한발 원 그리기,유연성,맨몸,청소년,卧姿单腿画圆,柔韧性,无,青少年,Supine Single Leg Circles,Flexibility,None,Teenagers
+물고기 자세,유연성,맨몸,청소년,鱼式,柔韧性,无,青少年,Fish Pose,Flexibility,None,Teenagers
+엎드려 한발 원 그리기,유연성,맨몸,청소년,俯卧单腿画圆,柔韧性,无,青少年,Prone Single Leg Circles,Flexibility,None,Teenagers
+옆으로 굽히기,근력/근지구력,밴드,청소년,侧弯,肌力/肌耐力,杠铃,青少年,Side Bend,Strength/Endurance,Band,Teenagers
+앉아서 무릎 굽히기,근력/근지구력,밴드,청소년,坐姿屈膝,肌力/肌耐力,带子,青少年,Seated Knee Flexion,Strength/Endurance,Band,Teenagers
+한 발 들어올리기,근력/근지구력,밴드,청소년,单腿抬高,肌力/肌耐力,带子,青少年,Single Leg Lift,Strength/Endurance,Band,Teenagers
+양팔 크게 벌리기,근력/근지구력,밴드,청소년,双臂大开,肌力/肌耐力,带子,青少年,Wide Arm Stretch,Strength/Endurance,Band,Teenagers
+앉아서 다리 올리기,근력/근지구력,밴드,청소년,坐姿抬腿,肌力/肌耐力,带子,青少年,Seated Leg Raise,Strength/Endurance,Band,Teenagers
+상체 감아올리기,근력/근지구력,밴드,청소년,上体屈伸,肌力/肌耐力,带子,青少年,Upper Body Extension,Strength/Endurance,Band,Teenagers
+팔 들어 올리며 런지,근력/근지구력,밴드,청소년,抬臂弓步,肌力/肌耐力,丝带,青少年,Arm Raise Lunges,Muscle Strength/Muscular Endurance,Band,Teenagers
+한 발 뒤로 들어올리기,근력/근지구력,밴드,청소년,后踢腿,肌力/肌耐力,丝带,青少年,Back Leg Raises,Muscle Strength/Muscular Endurance,Band,Teenagers
+뒤로 팔 뻗기,근력/근지구력,밴드,청소년,后伸臂,肌力/肌耐力,丝带,青少年,Back Arm Stretch,Muscle Strength/Muscular Endurance,Band,Teenagers
+발에 밴드걸고 윗몸일으키기,근력/근지구력,밴드,청소년,踝部绑带仰卧起坐,肌力/肌耐力,丝带,青少年,Band-Assisted Sit-ups,Muscle Strength/Muscular Endurance,Band,Teenagers
+한 발 끌어당기기,근력/근지구력,밴드,청소년,单腿抬举,肌力/肌耐力,丝带,青少年,Single Leg Pull,Muscle Strength/Muscular Endurance,Band,Teenagers
+다리 감아올리기,근력/근지구력,밴드,청소년,抬腿,肌力/肌耐力,丝带,青少年,Leg Raises,Muscle Strength/Muscular Endurance,Band,Teenagers
+크런치 사이클,근력/근지구력,맨몸,청소년,卷腹,肌力/肌耐力,无,青少年,Crunches,Muscle Strength/Muscular Endurance,None,Teenagers
+앉았다 일어서기,근력/근지구력,웨이트기계,청소년,坐起站立,肌力/肌耐力,杠铃机,青少年,Sit-to-Stand,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+몸통 옆으로 굽히기,근력/근지구력,웨이트기계,청소년,侧身弯曲,肌力/肌耐力,杠铃机,青少年,Side Bends,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+앉아서 당겨 내리기,근력/근지구력,웨이트기계,청소년,坐姿下拉,肌力/肌耐力,杠铃机,青少年,Seated Pull-down,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+앉아서 양팔 당기기,근력/근지구력,웨이트기계,청소년,坐姿双臂拉力,肌力/肌耐力,杠铃机,青少年,Seated Two-arm Pull,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+팔꿈치 고정 후 벌리기,근력/근지구력,밴드,청소년,固定肘部后展,肌力/肌耐力,丝带,青少年,Elbow Fixation with Extension,Muscle Strength/Muscular Endurance,Band,Teenagers
+앉아서 다리 펴기,근력/근지구력,웨이트기계,청소년,坐姿伸展,肌力/肌耐力,杠铃机,青少年,Seated Leg Extension,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+누워서 팔 밀기,근력/근지구력,웨이트기계,청소년,俯卧臂推,肌力/肌耐力,杠铃机,青少年,Lying Arm Press,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+앉아서 가슴 모으기,근력/근지구력,웨이트기계,청소년,坐姿收紧胸肌,肌力/肌耐力,杠铃机,青少年,Seated Chest Contraction,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+누워서 다리 굽히기,근력/근지구력,웨이트기계,청소년,仰卧腿屈伸,肌力/肌耐力,杠铃机,青少年,Lying Leg Curl,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+앉아서 몸통 움츠리기,근력/근지구력,웨이트기계,청소년,坐姿屈腰,肌力/肌耐力,杠铃机,青少年,Seated Trunk Flexion,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+다리 넓게 벌려 앉았다 일어서기,근력/근지구력,웨이트기계,청소년,开腿坐起站立,肌力/肌耐力,杠铃机,青少年,Wide-legged Sit-to-Stand,Muscle Strength/Muscular Endurance,Weight Machine,Teenagers
+버피 테스트,근력/근지구력,맨몸,청소년,跳跃俯卧撑测试,肌力/肌耐力,无,青少年,Burpee Test,Muscle Strength/Muscular Endurance,None,Teenagers
+윗몸 일으키기,근력/근지구력,맨몸,청소년,仰卧起坐,肌力/肌耐力,无,青少年,Sit-up,Muscle Strength/Muscular Endurance,None,Teenagers
+몸통 들어올리기,근력/근지구력,맨몸,청소년,仰卧提臀,肌力/肌耐力,无,青少年,Supine Hip Lift,Muscle Strength/Muscular Endurance,None,Teenagers
+앞굽이 앉았다 일어서기,근력/근지구력,맨몸,청소년,俯身屈膝坐起站立,肌力/肌耐力,无,青少年,Bent-over Sit-to-Stand,Muscle Strength/Muscular Endurance,None,Teenagers
+팔다리 교차 버티기,근력/근지구력,맨몸,청소년,交叉臂腿站立,肌力/肌耐力,无,青少年,Cross Arm-Leg Hold,Muscle Strength/Muscular Endurance,None,Teenagers
+발 바꿔 뛰기,근력/근지구력,맨몸,청소년,交叉跳跃,肌力/肌耐力,无,青少年,Alternating Leg Jumps,Muscle Strength/Muscular Endurance,None,Teenagers
+엎드려 팔다리 교차올리기,근력/근지구력,맨몸,청소년,交叉举腿俯卧撑,肌力/肌耐力,无,青少年,Cross Leg Lift Push-up,Muscle Strength/Muscular Endurance,None,Teenagers
+연속 사이드 스쿼드,근력/근지구력,맨몸,청소년,连续侧弓步,肌力/肌耐力,无,青少年,Continuous Side Squats,Muscle Strength/Muscular Endurance,None,Teenagers
+손 뻗어 윗몸 일으키기,근력/근지구력,맨몸,청소년,伸手仰卧起坐,肌力/肌耐力,无,青少年,Reach-up Sit-ups,Muscle Strength/Muscular Endurance,None,Teenagers
+다리 뻗어 올리기,근력/근지구력,맨몸,청소년,抬腿,肌力/肌耐力,无,青少年,Leg Raises,Muscle Strength/Muscular Endurance,None,Teenagers
+누워 무릎 기울기,근력/근지구력,맨몸,청소년,侧躺腿内旋,肌力/肌耐力,无,青少年,Lying Knee Inward Rotation,Muscle Strength/Muscular Endurance,None,Teenagers
+팔굽혀 펴기,근력/근지구력,맨몸,청소년,俯卧撑,肌力/肌耐力,无,青少年,Push-up,Muscle Strength/Muscular Endurance,None,Teenagers
+전완대고 버티기,근력/근지구력,맨몸,청소년,俯卧支撑,肌力/肌耐力,无,青少年,Forearm Plank,Muscle Strength/Muscular Endurance,None,Teenagers
+누워 다리 들어올리기,근력/근지구력,맨몸,청소년,仰卧抬腿,肌力/肌耐力,无,青少年,Leg Raises,Muscle Strength/Muscular Endurance,None,Teenagers
+뒤로 팔굽혀펴기,근력/근지구력,맨몸,청소년,仰卧俯卧撑,肌力/肌耐力,无,青少年,Reverse Push-up,Muscle Strength/Muscular Endurance,None,Teenagers
+바로서서 상체 숙이기,근력/근지구력,맨몸,청소년,躯干前屈站立,肌力/肌耐力,无,青少年,Standing Trunk Flexion,Muscle Strength/Muscular Endurance,None,Teenagers
+V자 싸이클,근력/근지구력,맨몸,청소년,V字形自行车,肌力/肌耐力,无,青少年,V-sit Bicycle,Muscle Strength/Muscular Endurance,None,Teenagers
+다리 교대로 들어올리기,협응력,짐볼,청소년,交替抬腿,协调力,瑜伽球,青少年,Alternating Leg Lifts,Coordination,Gym Ball,Teenagers
+의자에 앉아 물병 들고 몸통 돌리기,근력/근지구력,물병,청소년,坐姿扭转,肌力/肌耐力,水瓶,青少年,Seated Twist,Muscle Strength/Muscular Endurance,Water Bottle,Teenagers
+백 슬라이드,협응력,짐볼,청소년,后滑动,协调力,瑜伽球,青少年,Back Slide,Coordination,Gym Ball,Teenagers
+짐볼 윗몸일으키기,협응력,짐볼,청소년,瑜伽球仰卧起坐,协调力,瑜伽球,青少年,Gym Ball Sit-up,Coordination,Gym Ball,Teenagers
+양손 모아 균형 잡기,협응력,짐볼,청소년,双手合拢保持平衡,协调力,瑜伽球,青少年,Balancing with Hands Together,Coordination,Gym Ball,Teenagers
+짐볼 배에 대고 버티기,협응력,짐볼,청소년,瑜伽球压腹,协调力,瑜伽球,青少年,Planking on Gym Ball,Coordination,Gym Ball,Teenagers
+메디신 볼 잡고 런지하며 상체비틀기,협응력,공,청소년,手持医疗球做深蹲并扭转上半身,协调力,球,青少年,Lunges with Medizin Ball Twists,Coordination,Ball,Teenagers
+메디신 볼 잡고 팔굽혀펴기,협응력,공,청소년,手持医疗球俯卧撑,协调力,球,青少年,Push-ups with Medizin Ball,Coordination,Ball,Teenagers
+종아리 사이 감아 돌리기,협응력,공,청소년,小腿之间旋转,协调力,球,青少年,Calf Circles,Coordination,Ball,Teenagers
+볼 잡고 점프하기,협응력,공,청소년,手持球跳跃,协调力,球,青少年,Jumping with Ball,Coordination,Ball,Teenagers
+짐볼 전완대고 버티기,협응력,짐볼,청소년,瑜伽球前臂支撑,协调力,瑜伽球,青少年,Forearm Plank on Gym Ball,Coordination,Gym Ball,Teenagers
+볼 튕기면서 스쿼트,협응력,공,청소년,弹跳式深蹲,协调力,球,青少年,Squats with Ball Bounce,Coordination,Ball,Teenagers
+양발 교차 올리기,협응력,짐볼,청소년,交叉抬腿,协调力,瑜伽球,青少年,Cross Leg Raises,Coordination,Gym Ball,Teenagers
+허리 비틀어 볼 주고받기,협응력,공,청소년,交替扭腰传球,协调力,球,青少年,Twisting Pass with Ball,Coordination,Ball,Teenagers
+누워 무릎 교차 올리기,협응력,짐볼,청소년,交叉抬膝,协调力,瑜伽球,青少年,Cross Knee Raises,Coordination,Gym Ball,Teenagers
+허리 감아 볼 돌리기,협응력,공,청소년,扭转腰部传球,协调力,球,青少年,Twisting Pass with Ball,Coordination,Ball,Teenagers
+볼 잡고 몸통 기울이기,협응력,공,청소년,持球侧身倾斜,协调力,球,青少年,Side Bend with Ball,Coordination,Ball,Teenagers
+머리 위로 볼 돌리기,협응력,공,청소년,头顶旋转球,协调力,球,青少年,Overhead Ball Rotations,Coordination,Ball,Teenagers
+조깅,심폐지구력,맨몸,청소년,慢跑,心肺耐力,无,青少年,Jogging,Cardiovascular Endurance,None,Teenagers
+걷기,심폐지구력,맨몸,청소년,步行,心肺耐力,无,青少年,Walking,Cardiovascular Endurance,None,Teenagers
+줄넘기 운동,심폐지구력,줄넘기,청소년,跳绳运动,心肺耐力,跳绳,青少年,Jump Rope Exercise,Cardiovascular Endurance,Jump Rope,Teenagers
+자전거타기,심폐지구력,자전거,청소년,骑自行车,心肺耐力,自行车,青少年,Cycling,Cardiovascular Endurance,Bicycle,Teenagers
+수영,심폐지구력,수중운동,청소년,游泳,心肺耐力,水中运动,青少年,Swimming,Cardiovascular Endurance,Aquatic Exercise,Teenagers
+빠르게 앞무릎 올리기,민첩성/순발력,스텝박스,청소년,快速提膝,敏捷性/速度,踏步器,青少年,Fast High Knees,Agility/Speed,Step Box,Teenagers
+좌우 이동하며 팔굽혀펴기,민첩성/순발력,스텝박스,청소년,左右移动俯卧撑,敏捷性/速度,踏步器,青少年,Side-to-Side Push-ups,Agility/Speed,Step Box,Teenagers
+한발로 점프하기,민첩성/순발력,스텝박스,청소년,单脚跳跃,敏捷性/速度,踏步器,青少年,Single Leg Jump,Agility/Speed,Step Box,Teenagers
+팔굽혀펴기 후 점프하기,민첩성/순발력,스텝박스,청소년,俯卧撑后跳跃,敏捷性/速度,踏步器,青少年,Push-up to Jump,Agility/Speed,Step Box,Teenagers
+좌우 양발모아 점프하기,민첩성/순발력,스텝박스,청소년,左右双脚跳跃,敏捷性/速度,踏步器,青少年,Side-to-Side Double Leg Jump,Agility/Speed,Step Box,Teenagers
+연속 상향 점프하기,민첩성/순발력,스텝박스,청소년,连续上跳,敏捷性/速度,踏步器,青少年,Continuous Vertical Jumps,Agility/Speed,Step Box,Teenagers
+연속 하향 점프하기,민첩성/순발력,스텝박스,청소년,连续下跳,敏捷性/速度,踏步器,青少年,Continuous Descending Jumps,Agility/Speed,Step Box,Teenagers
+팔 벌려 뛰기,민첩성/순발력,맨몸,청소년,张臂跳跃,敏捷性/速度,无,青少年,Jumping Jacks,Agility/Speed,None,Teenagers
+앉았다 일어나며 점프하기,민첩성/순발력,맨몸,청소년,坐起跳,敏捷性/速度,无,青少年,Squat Jumps,Agility/Speed,None,Teenagers
+양발 점프 착지하기,민첩성/순발력,스텝박스,청소년,双脚跳跃着陆,敏捷性/速度,踏步器,青少年,Bilateral Jump Landing,Agility/Speed,Step Box,Teenagers
+점프 후 버티기,민첩성/순발력,스텝박스,청소년,跳跃后站立,敏捷性/速度,踏步器,青少年,Jump and Hold,Agility/Speed,Step Box,Teenagers
+다리 뻗어 점프하기,민첩성/순발력,맨몸,청소년,伸展跳跃,敏捷性/速度,无,青少年,Leg Extension Jump,Agility/Speed,None,Teenagers
+앞차기하며 뛰기,민첩성/순발력,맨몸,청소년,前踢跳跃,敏捷性/速度,无,青少年,Front Kick Jump,Agility/Speed,None,Teenagers
+양팔 벌려 높이 뛰기,민첩성/순발력,맨몸,청소년,双臂高跳,敏捷性/速度,无,青少年,Double Arm High Jump,Agility/Speed,None,Teenagers
+제자리 멀리 뛰기,민첩성/순발력,맨몸,청소년,原地远跳,敏捷性/速度,无,青少年,Standing Broad Jump,Agility/Speed,None,Teenagers
+앞굽이 뛰기,민첩성/순발력,맨몸,청소년,弯腰跳跃,敏捷性/速度,无,青少年,Forward Bend Jump,Agility/Speed,None,Teenagers
+사이드 한발 뛰기,민첩성/순발력,맨몸,청소년,侧向单脚跳,敏捷性/速度,无,青少年,Side Single Leg Hop,Agility/Speed,None,Teenagers
+뛰어 밀기,민첩성/순발력,맨몸,청소년,跳跃推动,敏捷性/速度,无,青少年,Jump and Push,Agility/Speed,None,Teenagers
+사이드 스텝 점프하기,민첩성/순발력,스텝박스,청소년,侧向步跳,敏捷性/速度,踏步器,青少年,Side Step Jumps,Agility/Speed,Step Box,Teenagers
+순간반응 콘 찍기,민첩성/순발력,하프콘,청소년,快速反应锥桶击打,敏捷性/速度,锥桶,青少年,Rapid Response Cone Tapping,Agility/Speed,Cone,Teenagers
+사이드 지그재그 뛰기,민첩성/순발력,하프콘,청소년,侧向蛇形跳跃,敏捷性/速度,锥桶,青少年,Side Zigzag Jumps,Agility/Speed,Cone,Teenagers
+무릎 높이 들어 뛰기,민첩성/순발력,맨몸,청소년,高抬膝跳跃,敏捷性/速度,无,青少年,High Knee Jumps,Agility/Speed,None,Teenagers
+뒤꿈치 높이들어 뛰기,민첩성/순발력,맨몸,청소년,高抬脚后跳跃,敏捷性/速度,无,青少年,High Heel Back Jumps,Agility/Speed,None,Teenagers
+한발 연속 뛰기,민첩성/순발력,하프콘,청소년,连续单脚跳跃,敏捷性/速度,锥桶,青少年,Continuous Single Leg Hops,Agility/Speed,Cone,Teenagers
+전후 교차 뛰기,민첩성/순발력,하프콘,청소년,前后交叉跳跃,敏捷性/速度,锥桶,青少年,Forward and Backward Crossover Jumps,Agility/Speed,Cone,Teenagers
+빠르게 무릎들어 뛰기,민첩성/순발력,맨몸,청소년,快速高抬膝跳跃,敏捷性/速度,无,青少年,Rapid High Knee Jumps,Agility/Speed,None,Teenagers
+점프하며 뛰기,민첩성/순발력,맨몸,청소년,跳跃奔跑,敏捷性/速度,无,青少年,Jumping Run,Agility/Speed,None,Teenagers
+순간반응 콘 찍기 2,민첩성/순발력,하프콘,청소년,瞬间反应触球2,敏捷性/速度,锥桶,青少年,Instant Reaction Cone Taps 2,Agility/Speed,Cone,Teenagers
+앞뒤 지그재그 뛰기,민첩성/순발력,하프콘,청소년,前后曲折跳跃,敏捷性/速度,锥桶,青少年,Forward and Backward Zigzag Jumps,Agility/Speed,Cone,Teenagers
+W 스텝,민첩성/순발력,하프콘,청소년,W型步伐,敏捷性/速度,锥桶,青少年,W Step,Agility/Speed,Cone,Teenagers
+무릎 들어 연속 뛰기,민첩성/순발력,하프콘,청소년,连续高抬膝跳跃,敏捷性/速度,锥桶,青少年,Continuous High Knee Jumps,Agility/Speed,Cone,Teenagers
+양발 연속 뛰기,민첩성/순발력,하프콘,청소년,连续双脚跳跃,敏捷性/速度,锥桶,青少年,Continuous Two-Foot Hops,Agility/Speed,Cone,Teenagers
+양발 모았다 벌려뛰기,민첩성/순발력,사다리,청소년,合脚后开跳跃,敏捷性/速度,梯子,青少年,Feet Together to Wide Jump,Agility/Speed,Ladder,Teenagers
+엇박자 뛰기,민첩성/순발력,사다리,청소년,错误跳跃,敏捷性/速度,梯子,青少年,Cross-Step Jumps,Agility/Speed,Ladder,Teenagers
+빠른 발 뛰기,민첩성/순발력,사다리,청소년,快速跳越,敏捷性/速度,梯子,青少年,Quick Footwork,Agility/Speed,Ladder,Teenagers
+양발 교차 뛰기,민첩성/순발력,사다리,청소년,交叉跳跃,敏捷性/速度,梯子,青少年,Crossed Feet Jumps,Agility/Speed,Ladder,Teenagers
+빠른 발 안팎 뛰기,민첩성/순발력,사다리,청소년,快速内外跳跃,敏捷性/速度,梯子,青少年,Quick In-Out Jumps,Agility/Speed,Ladder,Teenagers
+사이드 스텝,민첩성/순발력,하프콘,청소년,侧步,敏捷性/速度,半圆锥,青少年,Side Step,Agility/Speed,Half Cone,Teenagers
+양발 모아 좌우 뛰기,민첩성/순발력,사다리,청소년,双脚并拢左右跳,敏捷性/速度,梯子,青少年,Side-to-Side Hops with Feet Together,Agility/Speed,Ladder,Teenagers
+뒷발 교차 뛰기,민첩성/순발력,사다리,청소년,后脚交叉跳,敏捷性/速度,梯子,青少年,Cross-Back Hops,Agility/Speed,Ladder,Teenagers
+한발 연속 뛰기,민첩성/순발력,사다리,청소년,连续单脚跳,敏捷性/速度,梯子,青少年,Continuous Single-Leg Hops,Agility/Speed,Ladder,Teenagers
+크게 다리벌려 교차 뛰기,민첩성/순발력,사다리,청소년,大幅度叉开腿交叉跳,敏捷性/速度,梯子,青少年,Wide Leg Cross Hops,Agility/Speed,Ladder,Teenagers
+한발 앞뒤 교차 뛰기,민첩성/순발력,사다리,청소년,单脚前后交叉跳,敏捷性/速度,梯子,青少年,Single Leg Front-Back Cross Hops,Agility/Speed,Ladder,Teenagers
+요통을 위한 근력운동,근력/근지구력,맨몸 또는 웨이트기계,청소년,腰痛患者的力量训练,肌力/肌耐力,无或者哑铃器械,青少年,Strength Training for Lower Back Pain,Muscle Strength/Muscular Endurance,None or Dumbbells,Teenagers
+짐볼 앉기 평형성 운동 루틴 프로그램,평형성,짐볼,청소년,坐健身球的平衡运动常规程序,平衡性,健身球,青少年,Sitting Balance Routine with Exercise Ball,Balance,Exercise Ball,Teenagers
+옆으로 걷기,협응력,사다리,어르신,侧向行走,协调力,梯子,老年人,Lateral Walking,Coordination,Ladder,Elderly
+줄 따라 걷기,협응력,줄,어르신,沿绳行走,协调力,绳索,老年人,Walking Along a Rope,Coordination,Rope,Elderly
+의자 이용하기,협응력,의자,어르신,椅子训练,协调力,椅子,老年人,Chair Exercises,Coordination,Chair,Elderly
+사다리 이용 루틴 운동,협응력,사다리,어르신,梯子训练路线,协调力,梯子,老年人,Ladder Training Routine,Coordination,Ladder,Elderly
+풍선차기,협응력,제기,어르신,踢气球,协调力,气球,老年人,Balloon Kicking,Coordination,Balloon,Elderly
+앞뒤로 한발씩 걷기,협응력,사다리,어르신,前后单脚行走,协调力,梯子,老年人,Walking Forward and Backward on One Leg,Coordination,Ladder,Elderly
+두발모아 걷기,협응력,사다리,어르신,合脚行走,协调力,梯子,老年人,Walking with Feet Together,Coordination,Ladder,Elderly
+사다리 걷기,협응력,사다리,어르신,攀爬梯行走,协调力,梯子,老年人,Ladder Walking,Coordination,Ladder,Elderly
+의자 앉아 공 밀기,협응력,의자/공,어르신,坐椅子推球,协调力,椅子/球,老年人,Seated Ball Push,Coordination,Chair/Ball,Elderly
+발로 공주고 받기,협응력,공,어르신,用脚踢球并接球,协调力,球,老年人,Kicking and Catching Ball with Feet,Coordination,Ball,Elderly
+한 칸 건너뛰며 걷기,협응력,사다리,어르신,跨越式行走,协调力,梯子,老年人,Walking with Skipping a Step,Coordination,Ladder,Elderly
+하프콘 투호,협응력,하프콘,어르신,半圆锥投掷,协调力,半圆锥,老年人,Half Cone Toss,Coordination,Half Cone,Elderly
+발바닥 치기,협응력,맨몸,어르신,脚底踢击,协调力,无,老年人,Foot Tapping,Coordination,None,Elderly
+짐볼 앉아 중심 잡기 루틴 운동,평형성,짐볼,어르신,坐姿稳定球训练,平衡性,瑜伽球,老年人,Seated Stability Ball Routine,Balance,Gym Ball,Elderly
+좌우로 선넘기,협응력,맨몸,어르신,左右跨步,协调力,无,老年人,Side Step,Coordination,None,Elderly
+앞뒤로 선넘기,협응력,맨몸,어르신,前后跨步,协调力,无,老年人,Forward and Backward Step,Coordination,None,Elderly
+스카프 라인,협응력,스카프,어르신,围巾练习,协调力,围巾,老年人,Scarf Line,Coordination,Scarf,Elderly
+머리 위로 공 넘기기,협응력,공,어르신,头顶传球,协调力,球,老年人,Overhead Ball Pass,Coordination,Ball,Elderly
+풍선 튕기기,협응력,풍선,어르신,弹跳气球,协调力,气球,老年人,Bouncing Balloon,Coordination,Balloon,Elderly
+스카프 저글링,협응력,스카프,어르신,围巾抛接,协调力,围巾,老年人,Scarf Juggling,Coordination,Scarf,Elderly
+짐볼 앉아 한발 들기,평형성,짐볼,어르신,坐姿单腿举起,平衡性,瑜伽球,老年人,Seated Single Leg Raise,Balance,Gym Ball,Elderly
+성화봉송,협응력,라바콘/공,어르신,手杖传球,协调力,棒球棒/球,老年人,Baton Passing,Coordination,Baton/Ball,Elderly
+짐볼 앉아 양손 대각방향으로 들기,평형성,짐볼,어르신,坐姿双手交替举起,平衡性,瑜伽球,老年人,Seated Alternating Hands Lift,Balance,Gym Ball,Elderly
+짐볼 앉아 한발 내딛기,평형성,짐볼,어르신,坐姿单脚踏出,平衡性,瑜伽球,老年人,Seated Single Leg Step,Balance,Gym Ball,Elderly
+균형 걷기,평형성,맨몸,어르신,平衡行走,平衡性,无,老年人,Balance Walking,Balance,None,Elderly
+서서 다리로 탄력밴드 당겨 중심 잡기 루틴 운동,평형성,탄력밴드,어르신,站立用弹力带拉伸身体,平衡性,弹力带,老年人,Standing Elastic Band Pull to Maintain Balance Routine,Balance,Elastic Band,Elderly
+짐볼 앉기,평형성,짐볼,어르신,坐姿球训练,平衡性,瑜伽球,老年人,Seated Ball Exercise,Balance,Gym Ball,Elderly
+탄력밴드 무릎으로 당기기,평형성,탄력밴드,어르신,膝部弹力带拉伸,平衡性,弹力带,老年人,Knee Elastic Band Pull,Balance,Elastic Band,Elderly
+짐볼 앉아 양손 측면으로 들기,평형성,짐볼,어르신,坐姿双手侧向举起,平衡性,瑜伽球,老年人,Seated Side Raise with Both Hands,Balance,Gym Ball,Elderly
+탄력밴드 측면으로 당기기,평형성,탄력밴드,어르신,侧向弹力带拉伸,平衡性,弹力带,老年人,Side Elastic Band Pull,Balance,Elastic Band,Elderly
+짐볼 앉아 뒤꿈치 들기,평형성,짐볼,어르신,坐姿举起后脚跟,平衡性,瑜伽球,老年人,Seated Heel Raise,Balance,Gym Ball,Elderly
+탄력밴드 후방 측면으로 당기기,평형성,탄력밴드,어르신,后方侧向弹力带拉伸,平衡性,弹力带,老年人,Rear Side Elastic Band Pull,Balance,Elastic Band,Elderly
+짐볼 앉아 몸통 돌리기,평형성,짐볼,어르신,坐姿转体,平衡性,瑜伽球,老年人,Seated Torso Rotation,Balance,Gym Ball,Elderly
+짐볼 앉아 상체 숙이기,평형성,짐볼,어르신,坐姿前倾,平衡性,瑜伽球,老年人,Seated Forward Bend,Balance,Gym Ball,Elderly
+짐볼 앉아 한손 측면으로 들기,평형성,짐볼,어르신,坐姿单手侧向举起,平衡性,瑜伽球,老年人,Seated One-Handed Side Raise,Balance,Gym Ball,Elderly
+짐볼 앉아 양 손 가슴 교차,평형성,짐볼,어르신,坐姿双手交叉胸部训练,平衡性,瑜伽球,老年人,Seated Cross-Arm Chest Exercise,Balance,Gym Ball,Elderly
+베개 밟고 서기,평형성,베개,어르신,站立踩枕头,平衡性,枕头,老年人,Standing on Pillow,Balance,Pillow,Elderly
+의자 이용 중심 잡기 루틴 운동,평형성,의자,어르신,使用椅子的平衡练习,平衡性,椅子,老年人,Balance Routine with Chair,Balance,Chair,Elderly
+베개 밟고 교차 서기,평형성,베개,어르신,踩枕头交叉站立,平衡性,枕头,老年人,Cross-Standing on Pillow,Balance,Pillow,Elderly
+베개 밟고 대각방향으로 서기,평형성,베개,어르신,踩枕头斜向站立,平衡性,枕头,老年人,Diagonal Standing on Pillow,Balance,Pillow,Elderly
+베개 밟고 두발 모아 서기,평형성,베개,어르신,踩枕头并拢站立,平衡性,枕头,老年人,Standing with Feet Together on Pillow,Balance,Pillow,Elderly
+의자잡고 후방으로 무릎 굽혀 들기,평형성,의자,어르신,扶椅子后弯膝抬举,平衡性,椅子,老年人,Chair-Assisted Backward Knee Bend Lift,Balance,Chair,Elderly
+의자 잡고 전방으로 무릎 굽혀 들기,평형성,의자,어르신,扶椅子前弯膝抬举,平衡性,椅子,老年人,Chair-Assisted Forward Knee Bend Lift,Balance,Chair,Elderly
+베개 밟고 위로 양팔 들기,평형성,베개,어르신,踩枕头抬双臂,平衡性,枕头,老年人,Lifting Both Arms on Pillow,Balance,Pillow,Elderly
+베개 밟고 측면으로 양팔 들기,평형성,베개,어르신,踩枕头侧身抬双臂,平衡性,枕头,老年人,Lifting Both Arms Sideways on Pillow,Balance,Pillow,Elderly
+탄력밴드 걸고 서기,평형성,탄력밴드,어르신,绑上弹力带站立,平衡性,弹力带,老年人,Standing with Resistance Band,Balance,Resistance Band,Elderly
+탄력밴드 전방으로 당기기,평형성,탄력밴드,어르신,向前拉伸弹力带,平衡性,弹力带,老年人,Pulling Resistance Band Forward,Balance,Resistance Band,Elderly
+탄력밴드 후방으로 당기기,평형성,탄력밴드,어르신,向后拉伸弹力带,平衡性,弹力带,老年人,Pulling Resistance Band Backward,Balance,Resistance Band,Elderly
+한발 들기,평형성,맨몸,어르신,单脚站立,平衡性,无,老年人,Single Leg Stand,Balance,Bodyweight,Elderly
+양발 나란히 서기,평형성,맨몸,어르신,双脚并立,平衡性,无,老年人,Standing with Feet Together,Balance,None,Elderly
+의자 잡고 한발 들기,평형성,의자,어르신,扶椅单腿站立,平衡性,椅子,老年人,Single Leg Stand with Chair Support,Balance,Chair,Elderly
+좌우 찍기,평형성,맨몸,어르신,左右触地,平衡性,无,老年人,Side-to-Side Touch,Balance,None,Elderly
+의자 잡고 측면으로 한발 들기,평형성,의자,어르신,扶着椅子侧抬一腿,平衡性,椅子,老年人,Side Leg Lift with Chair Support,Balance,Chair,Elderly
+의자 잡고 후방으로 한발 뻗어 들기,평형성,의자,어르신,扶着椅子后伸一腿,平衡性,椅子,老年人,Back Leg Extension with Chair Support,Balance,Chair,Elderly
+의자 잡고 서기,평형성,의자,어르신,扶着椅子站立,平衡性,椅子,老年人,Chair Support Standing,Balance,Chair,Elderly
+가슴 스트레칭,유연성,폼롤러,어르신,胸部拉伸,柔韧性,泡沫轴,老年人,Chest Stretch,Flexibility,Foam Roller,Elderly
+옆으로 누워 가슴 열기,유연성,폼롤러,어르신,侧卧开胸,柔韧性,泡沫轴,老年人,Side-Lying Chest Opener,Flexibility,Foam Roller,Elderly
+폼롤러 밀며 몸 앞으로 숙이기,유연성,폼롤러,어르신,推泡沫轴前屈,柔韧性,泡沫轴,老年人,Forward Bend with Foam Roller,Flexibility,Foam Roller,Elderly
+옆으로 누워 폼롤러 굴려주기,유연성,폼롤러,어르신,侧卧泡沫轴按摩,柔韧性,泡沫轴,老年人,Side-Lying Foam Rolling,Flexibility,Foam Roller,Elderly
+폼롤러 앞으로 굴리기,유연성,폼롤러,어르신,泡沫轴前滚,柔韧性,泡沫轴,老年人,Foam Rolling Forward,Flexibility,Foam Roller,Elderly
+척추 스트레칭,유연성,폼롤러,어르신,脊柱伸展,柔韧性,泡沫轴,老年人,Spinal Stretching,Flexibility,Foam Roller,Elderly
+엉덩이 스트레칭,유연성,짐볼,어르신,臀部伸展,柔韧性,瑜伽球,老年人,Hip Stretching,Flexibility,Yoga Ball,Elderly
+짐볼 양팔로 밀기,유연성,짐볼,어르신,瑜伽球双臂推,柔韧性,瑜伽球,老年人,Yoga Ball Arm Push,Flexibility,Yoga Ball,Elderly
+복부 스트레칭,유연성,짐볼,어르신,腹部伸展,柔韧性,瑜伽球,老年人,Abdominal Stretching,Flexibility,Yoga Ball,Elderly
+골반 스트레칭,유연성,짐볼,어르신,骨盆伸展,柔韧性,瑜伽球,老年人,Pelvic Stretching,Flexibility,Yoga Ball,Elderly
+어깨 올리기,유연성,폼롤러,어르신,抬肩运动,柔韧性,泡沫轴,老年人,Shoulder Lifts,Flexibility,Foam Roller,Elderly
+등 스트레칭,유연성,짐볼,어르신,背部伸展,柔韧性,瑜伽球,老年人,Back Stretching,Flexibility,Yoga Ball,Elderly
+팔 교대로 올리기,유연성,폼롤러,어르신,交替抬臂,柔韧性,泡沫轴,老年人,Alternating Arm Raises,Flexibility,Foam Roller,Elderly
+골반 스트레칭2,유연성,짐볼,어르신,髋部伸展,柔韧性,瑜伽球,老年人,Hip Stretching,Flexibility,Yoga Ball,Elderly
+무릎 아래에서 양옆으로 굴리기,유연성,짐볼,어르신,膝下左右滚动,柔韧性,瑜伽球,老年人,Rolling Side to Side Below Knees,Flexibility,Yoga Ball,Elderly
+어깨 스트레칭,유연성,폼롤러,어르신,肩部伸展,柔韧性,泡沫轴,老年人,Shoulder Stretching,Flexibility,Foam Roller,Elderly
+짐볼 옆에 두고 어깨 누르기,유연성,짐볼,어르신,肩部按摩,柔韧性,瑜伽球,老年人,Shoulder Massage,Flexibility,Yoga Ball,Elderly
+대퇴사두근 스트레칭,유연성,의자,어르신,大腿内侧肌肉拉伸,柔韧性,椅子,老年人,Adductor Stretch,Flexibility,Chair,Elderly
+비복근 스트레칭,유연성,의자,어르신,腹肌拉伸,柔韧性,椅子,老年人,Abdominal Stretch,Flexibility,Chair,Elderly
+옆구리 스트레칭,유연성,의자,어르신,侧身拉伸,柔韧性,椅子,老年人,Side Stretch,Flexibility,Chair,Elderly
+내전근 스트레칭,유연성,의자,어르신,内侧肌肉拉伸,柔韧性,椅子,老年人,Inner Thigh Stretch,Flexibility,Chair,Elderly
+가슴 스트레칭,유연성,의자,어르신,胸部拉伸,柔韧性,椅子,老年人,Chest Stretch,Flexibility,Chair,Elderly
+발가락 폄근 스트레칭,유연성,의자,어르신,脚趾伸展,柔韧性,椅子,老年人,Toe Stretch,Flexibility,Chair,Elderly
+등/어깨 뒤쪽 스트레칭,유연성,의자,어르신,背部/肩部后伸展,柔韧性,椅子,老年人,Back/Shoulder Stretch,Flexibility,Chair,Elderly
+몸 앞으로 굽히기,유연성,의자,어르신,前屈,柔韧性,椅子,老年人,Forward Bend,Flexibility,Chair,Elderly
+엉덩이 스트레칭,유연성,의자,어르신,臀部拉伸,柔韧性,椅子,老年人,Hip Stretch,Flexibility,Chair,Elderly
+짐볼 앞으로 밀기,유연성,짐볼,어르신,前推瑜伽球,柔韧性,瑜伽球,老年人,Forward Push with Gym Ball,Flexibility,Gym Ball,Elderly
+팔꿈치 맞닿아 원그리기,유연성,의자,어르신,肘部接触画圆,柔韧性,椅子,老年人,Elbows Touching Circle Drawing,Flexibility,Chair,Elderly
+짐볼 양옆으로 굴리기,유연성,짐볼,어르신,瑜伽球侧滚,柔韧性,瑜伽球,老年人,Rolling Gym Ball Sideways,Flexibility,Gym Ball,Elderly
+대퇴이두근 스트레칭,유연성,맨몸,어르신,大腿肌肉拉伸,柔韧性,无,老年人,Quadriceps Stretch,Flexibility,None,Elderly
+고관절 스트레칭,유연성,맨몸,어르신,髋关节拉伸,柔韧性,无,老年人,Hip Joint Stretch,Flexibility,None,Elderly
+대퇴이두근 스트레칭2,유연성,맨몸,어르신,大腿肌肉拉伸2,柔韧性,无,老年人,Quadriceps Stretch 2,Flexibility,None,Elderly
+마주 앉아 대퇴이두근 스트레칭,유연성,맨몸,어르신,对坐大腿肌肉拉伸,柔韧性,无,老年人,Seated Quadriceps Stretch,Flexibility,None,Elderly
+등 대고 대퇴이두근 스트레칭,유연성,맨몸,어르신,仰卧大腿肌肉拉伸,柔韧性,无,老年人,Supine Quadriceps Stretch,Flexibility,None,Elderly
+대퇴사두근 스트레칭,유연성,맨몸,어르신,大腿内侧肌肉拉伸,柔韧性,无,老年人,Adductor Stretch,Flexibility,None,Elderly
+목 스트레칭,유연성,의자,어르신,颈部伸展,柔韧性,椅子,老年人,Neck Stretch,Flexibility,Chair,Elderly
+몸통 비틀기,유연성,의자,어르신,躯干扭转,柔韧性,椅子,老年人,Trunk Rotation,Flexibility,Chair,Elderly
+마주 앉아 대퇴이두근 스트레칭2,유연성,맨몸,어르신,对坐大腿肌肉拉伸2,柔韧性,无,老年人,Seated Quadriceps Stretch 2,Flexibility,None,Elderly
+종아리 스트레칭,유연성,맨몸,어르신,小腿伸展,柔韧性,无,老年人,Calf Stretch,Flexibility,None,Elderly
+엉덩이 스트레칭2,유연성,맨몸,어르신,臀部伸展2,柔韧性,无,老年人,Hip Stretch 2,Flexibility,None,Elderly
+어깨 스트레칭,유연성,맨몸,어르신,肩部伸展,柔韧性,无,老年人,Shoulder Stretch,Flexibility,None,Elderly
+골반 스트레칭,유연성,맨몸,어르신,骨盆伸展,柔韧性,无,老年人,Pelvic Stretch,Flexibility,None,Elderly
+몸통 앞으로 굽혀 걷기,유연성,맨몸,어르신,弯腰前行,柔韧性,无,老年人,Forward Bend Walk,Flexibility,None,Elderly
+어깨 양 옆으로 돌리기,유연성,맨몸,어르신,肩部侧转,柔韧性,无,老年人,Shoulder Rotation,Flexibility,None,Elderly
+골반 스트레칭2,유연성,맨몸,어르신,骨盆伸展2,柔韧性,无,老年人,Pelvic Stretch 2,Flexibility,None,Elderly
+전신 틀어 손벽 마주치기,유연성,맨몸,어르신,全身扭转触手墙,柔韧性,无,老年人,Full Body Twist and Touch Wall,Flexibility,None,Elderly
+가슴/어깨 스트레칭,유연성,맨몸,어르신,胸部/肩部伸展,柔韧性,无,老年人,Chest/Shoulder Stretch,Flexibility,None,Elderly
+어깨 스트레칭,유연성,맨몸,어르신,肩部伸展,柔韧性,无,老年人,Shoulder Stretch,Flexibility,None,Elderly
+몸통 비틀기,유연성,맨몸,어르신,躯干扭转,柔韧性,无,老年人,Trunk Rotation,Flexibility,None,Elderly
+회전근개 스트레칭2,유연성,맨몸,어르신,股四头肌伸展2,柔韧性,无,老年人,Piriformis Stretch 2,Flexibility,None,Elderly
+몸통 비틀기,유연성,맨몸,어르신,躯干扭转,柔韧性,无,老年人,Trunk Rotation,Flexibility,None,Elderly
+회전근개 스트레칭,유연성,맨몸,어르신,旋转腱鞘伸展,柔韧性,无,老年人,Piriformis Stretch,Flexibility,None,Elderly
+어깨 뒤쪽 스트레칭,유연성,맨몸,어르신,肩部后伸展,柔韧性,无,老年人,Shoulder Back Stretch,Flexibility,None,Elderly
+허리 스트레칭,유연성,맨몸,어르신,腰部伸展,柔韧性,无,老年人,Lower Back Stretch,Flexibility,None,Elderly
+넙다리 안쪽 스트레칭,유연성,맨몸,어르신,大腿内侧伸展,柔韧性,无,老年人,Inner Thigh Stretch,Flexibility,None,Elderly
+넙다리 앞쪽 스트레칭,유연성,맨몸,어르신,大腿前侧伸展,柔韧性,无,老年人,Front Thigh Stretch,Flexibility,None,Elderly
+양팔 벌려 전신 비틀기,유연성,맨몸,어르신,全身扭转手臂展开,柔韧性,无,老年人,Full Body Twist with Arms Outstretched,Flexibility,None,Elderly
+아래 팔 스트레칭,유연성,맨몸,어르신,下臂伸展,柔韧性,无,老年人,Forearm Stretch,Flexibility,None,Elderly
+목 돌림 스트레칭,유연성,맨몸,어르신,转颈伸展,柔韧性,无,老年人,Neck Rotation Stretch,Flexibility,None,Elderly
+회전근개 스트레칭,유연성,맨몸,어르신,旋转肌腱伸展,柔韧性,无,老年人,Rotator Cuff Stretch,Flexibility,None,Elderly
+배 스트레칭,유연성,맨몸,어르신,腹部伸展,柔韧性,无,老年人,Abdominal Stretch,Flexibility,None,Elderly
+옆구리 스트레칭,유연성,맨몸,어르신,侧腰伸展,柔韧性,无,老年人,Side Stretch,Flexibility,None,Elderly
+깍지 끼고 상체 숙이기,유연성,맨몸,어르신,弯腰抓脚趾,柔韧性,无,老年人,Toe Touches,Flexibility,None,Elderly
+누워서 전신 뻗기,유연성,맨몸,어르신,仰卧全身伸展,柔韧性,无,老年人,Supine Full Body Stretch,Flexibility,None,Elderly
+목 스트레칭,유연성,맨몸,어르신,颈部伸展,柔韧性,无,老年人,Neck Stretch,Flexibility,None,Elderly
+등/어깨 뒤쪽 스트레칭,유연성,맨몸,어르신,背部/肩部后伸展,柔韧性,无,老年人,Upper Back/Shoulder Stretch,Flexibility,None,Elderly
+앉아서 밴드 잡고 몸통 돌리기,근력/근지구력,밴드/의자,어르신,坐姿用带扭转身体,肌力/耐力,杠铃/椅子,老年人,Seated Band Twist,Strength/Endurance,Band/Chair,Elderly
+밴드 잡고 몸통 옆으로 굽히기,근력/근지구력,밴드,어르신,坐姿用带侧弯,肌力/耐力,带子,老年人,Seated Band Side Bend,Strength/Endurance,Band,Elderly
+엎드려 양팔 및 다리 들어올리기,근력/근지구력,맨몸,어르신,仰卧抬臂抬腿,肌力/耐力,无,老年人,Supine Arm and Leg Raises,Strength/Endurance,None,Elderly
+의자에 앉아 등 굽혔다 펴기,근력/근지구력,의자,어르신,坐姿背部弯曲和伸展,肌力/耐力,椅子,老年人,Seated Back Flexion and Extension,Strength/Endurance,Chair,Elderly
+짐볼에서 몸통 돌리기,근력/근지구력,짐볼,어르신,瑜伽球躯干转动,肌力/耐力,瑜伽球,老年人,Stability Ball Trunk Rotation,Strength/Endurance,Stability Ball,Elderly
+다리로 짐볼 들어올리기,근력/근지구력,짐볼,어르신,腿部抬举瑜伽球,肌力/耐力,瑜伽球,老年人,Leg Lifts with Stability Ball,Strength/Endurance,Stability Ball,Elderly
+짐볼에서 엉덩이 돌리기,근력/근지구력,짐볼,어르신,瑜伽球臀部转动,肌力/耐力,瑜伽球,老年人,Stability Ball Hip Rotation,Strength/Endurance,Stability Ball,Elderly
+짐볼에서 윗몸 일으키기,근력/근지구력,짐볼,어르신,瑜伽球仰卧起坐,肌力/耐力,瑜伽球,老年人,Stability Ball Sit-Up,Strength/Endurance,Stability Ball,Elderly
+벽에서 팔굽혀 펴기,근력/근지구력,맨몸,어르신,墙壁俯卧撑,肌力/耐力,无,老年人,Wall Push-Up,Strength/Endurance,None,Elderly
+몸통 들어올리기,근력/근지구력,맨몸,어르신,上体抬起,肌力/耐力,无,老年人,Upper Body Lift,Strength/Endurance,None,Elderly
+물통으로 양팔 들어올리기,근력/근지구력,물병,어르신,举水瓶,肌力/耐力,水瓶,老年人,Water Bottle Raises,Strength/Endurance,Water Bottle,Elderly
+누워서 공 뒤로 내리고 당기기,근력/근지구력,공,어르신,仰卧抛接球,肌力/耐力,球,老年人,Supine Ball Throws,Strength/Endurance,Ball,Elderly
+밴드 머리 뒤로 들어올리기,근력/근지구력,밴드,어르신,用绷带将头向后举起,肌力/肌耐力,杠铃,老年人,Band Head Raise Backward,Muscle Strength/Muscular Endurance,Band,Elderly
+플렉스 바 비틀기,근력/근지구력,맨몸,어르신,弯曲撑杆扭动,肌力/肌耐力,无,老年人,Flex Bar Twist,Muscle Strength/Muscular Endurance,None,Elderly
+엎드려 뒤로 다리 올리기,근력/근지구력,맨몸,어르신,仰卧抬腿,肌力/肌耐力,无,老年人,Lying Leg Raises,Muscle Strength/Muscular Endurance,None,Elderly
+밴드 잡고 누워서 다리 밀기,근력/근지구력,밴드,어르신,用带拉伸躺下推腿,肌力/肌耐力,杠铃,老年人,Band-Assisted Leg Press,Muscle Strength/Muscular Endurance,Band,Elderly
+볼 위에 앉아 밴드 양옆으로 당기기,근력/근지구력,짐볼/밴드,어르신,坐在球上拉伸带,肌力/肌耐力,瑜伽球/带,老年人,Seated Band Pull Apart on Ball,Muscle Strength/Muscular Endurance,Gym Ball/Band,Elderly
+짐볼 들고 양옆으로 돌리기,근력/근지구력,짐볼,어르신,扭转摇摆,肌力/肌耐力,球,老年人,Ball Rotation,Muscle Strength/Muscular Endurance,Gym Ball,Elderly
+의자에 앉아 볼 돌리기,근력/근지구력,공,어르신,椅子上旋转球体运动,肌力/肌耐力,球,老年人,Seated Ball Rotations,Muscle Strength/Muscular Endurance,Ball,Elderly
+의자 앉아 다리로 짐볼 쥐기,근력/근지구력,짐볼/의자,어르신,坐椅子用腿抓球,肌力/肌耐力,球/椅子,老年人,Seated Leg Ball Grip,Muscle Strength/Muscular Endurance,Ball/Chair,Elderly
+물병 들고 한발 앞으로 내밀고 앉았다 일어서기,근력/근지구력,물병,어르신,手持水瓶单腿前倾起坐,肌力/肌耐力,水瓶,老年人,Single-Leg Forward Reach with Water Bottle Sit-to-Stand,Muscle Strength/Muscular Endurance,Water Bottle,Elderly
+밴드 걸고 누워서 다리 들어올리기,근력/근지구력,밴드,어르신,平躺抬腿绑带运动,肌力/肌耐力,伸缩带,老年人,Supine Leg Raises with Resistance Band,Muscle Strength/Muscular Endurance,Resistance Band,Elderly
+목봉잡고 앉았다 일어나기,근력/근지구력,목봉,어르신,抓住颈横杆坐起站立,肌力/肌耐力,颈横杆,老年人,Pull-up Bar Sit-to-Stand,Muscle Strength/Muscular Endurance,Pull-up Bar,Elderly
+앉아서 덤벨로 손목 굽히기,근력/근지구력,프리웨이트,어르신,坐姿哑铃手腕弯曲,肌力/肌耐力,哑铃,老年人,Seated Dumbbell Wrist Flexion,Muscle Strength/Muscular Endurance,Dumbbell,Elderly
+서서 팔꿈치 펴기,근력/근지구력,웨이트기계,어르신,站立伸展肘部,肌力/肌耐力,杠铃器械,老年人,Standing Elbow Extension,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+밴드 걸고 엎드려서 다리 구부리기,근력/근지구력,밴드,어르신,挂弹力带俯卧屈腿,肌力/肌耐力,弹力带,老年人,Prone Leg Curl with Resistance Band,Muscle Strength/Muscular Endurance,Resistance Band,Elderly
+밴드 걸고 옆으로 누워 다리 올리기,근력/근지구력,밴드,어르신,侧卧挂弹力带抬腿,肌力/肌耐力,弹力带,老年人,Side-Lying Leg Lifts with Resistance Band,Muscle Strength/Muscular Endurance,Resistance Band,Elderly
+앉아서 어깨 위로 밀기,근력/근지구력,웨이트기계,어르신,坐姿推举,肌力/肌耐力,杠铃器械,老年人,Seated Shoulder Press,Muscle Strength/Muscular Endurance,Weight Machine,Elderl
+짐볼 이용해 앉았다 일어서기,근력/근지구력,짐볼,어르신,坐姿球体起立,肌力/肌耐力,健身球,老年人,Seated Ball Stand-Up,Muscle Strength/Muscular Endurance,Gym Ball,Elderly
+밴드 걸고 앉아서 발등 굽힘,근력/근지구력,밴드,어르신,挂弹力带坐姿足背屈曲,肌力/肌耐力,弹力带,老年人,Seated Dorsiflexion with Resistance Band,Muscle Strength/Muscular Endurance,Resistance Band,Elderly
+앉아서 팔꿈치 굽히기,근력/근지구력,웨이트기계,어르신,坐姿弯曲肘部,肌力/肌耐力,杠铃器械,老年人,Seated Elbow Flexion,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+공 잡고 들어올리기,근력/근지구력,짐볼,어르신,握球抬举,肌力/肌耐力,健身球,老年人,Ball Lift,Muscle Strength/Muscular Endurance,Gym Ball,Elderly
+덤벨 잡고 뒤꿈치 들기,근력/근지구력,프리웨이트,어르신,握哑铃后举,肌力/肌耐力,哑铃,老年人,Dumbbell Rear Deltoid Raise,Muscle Strength/Muscular Endurance,Dumbbell,Elderly
+앉아서 다리 밀기 ,근력/근지구력,웨이트기계,어르신,坐姿腿部推举,肌力/肌耐力,杠铃器械,老年人,Seated Leg Press,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+바벨 당겨 올리기,근력/근지구력,프리웨이트,어르신,杠铃提拉,肌力/肌耐力,杠铃,老年人,Barbell Pull-Up,Muscle Strength/Muscular Endurance,Barbell,Elderly
+덤벨 잡고 한발 내밀어 굽혔다 펴기,근력/근지구력,프리웨이트,어르신,握哑铃单腿屈伸,肌力/肌耐力,哑铃,老年人,Dumbbell Single-Leg Curl and Extension,Muscle Strength/Muscular Endurance,Dumbbell,Elderly
+누워서 가슴 밀기,근력/근지구력,웨이트기계,어르신,仰卧推举,肌力/肌耐力,杠铃器械,老年人,Bench Press,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+몸통 들어올리기,근력/근지구력,웨이트기계,어르신,仰卧起坐,肌力/肌耐力,杠铃器械,老年人,Sit-Up,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+앉아서 당겨 내리기,근력/근지구력,웨이트기계,어르신,坐姿划船,肌力/肌耐力,杠铃器械,老年人,Seated Row,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+앉아서 뒤로 당기기,근력/근지구력,웨이트기계,어르신,坐姿拉背,肌力/肌耐力,杠铃器械,老年人,Seated Lat Pulldown,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+서서 다리 모으고 벌리기,근력/근지구력,웨이트기계,어르신,站立腿部内外收缩,肌力/肌耐力,杠铃器械,老年人,Standing Leg Abduction/Adduction,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+덤벨 잡고 몸통 옆으로 굽히기,근력/근지구력,프리웨이트,어르신,握哑铃侧身屈腰,肌力/肌耐力,哑铃,老年人,Dumbbell Side Bend,Muscle Strength/Muscular Endurance,Free Weight,Elderly
+앉아서 몸통 움츠리기,근력/근지구력,웨이트기계,어르신,坐姿俯身,肌力/肌耐力,杠铃器械,老年人,Seated Forward Bend,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+앉아서 가슴 모으기,근력/근지구력,웨이트기계,어르신,坐姿收胸,肌力/肌耐力,杠铃器械,老年人,Seated Chest Press,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+수영,심폐지구력,수중운동,어르신,游泳,心肺耐力,水中运动,老年人,Swimming,Cardiovascular Endurance,Aquatic Exercise,Elderly
+덤벨 잡고 앉았다 일어서기,근력/근지구력,프리웨이트,어르신,坐起站立,肌力/肌耐力,哑铃,老年人,Dumbbell Sit-to-Stand,Muscle Strength/Muscular Endurance,Free Weight,Elderly
+바벨 잡고 들어올리기,근력/근지구력,프리웨이트,어르신,举起杠铃,肌力/肌耐力,自由重量,老年人,Barbell Lift,Muscle Strength/Muscular Endurance,Free Weights,Elderly
+엎드려서 다리 굽히기 ,근력/근지구력,웨이트기계,어르신,仰卧腿部弯曲,肌力/肌耐力,杠铃器械,老年人,Leg Curl (Prone),Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+아쿠아로빅 운동 프로그램 루틴,심폐지구력,수중운동,어르신,水中有氧运动课程,心肺耐力,水中运动,老年人,Aquarobic Exercise Routine,Cardiovascular Endurance,Aquatic Exercise,Elderly
+앉아서 다리 펴기,근력/근지구력,웨이트기계,어르신,坐姿腿部伸展,肌力/肌耐力,杠铃器械,老年人,Seated Leg Extension,Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+아쿠아로빅-발 닿기,심폐지구력,수중운동,어르신,水中触脚,心肺耐力,水中器械,老年人,Aquatic Toe Touch,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+아쿠아로빅-물당기기/밀기,심폐지구력,수중운동,어르신,水中拉/推,心肺耐力,水中器械,老年人,Aquatic Pull/Push,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+아쿠아로빅-옆구리 늘리기,심폐지구력,수중운동,어르신,水中侧弯,心肺耐力,水中器械,老年人,Aquatic Side Bends,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+아쿠아로빅-몸 기울이기/회전하기,심폐지구력,수중운동,어르신,水中倾斜/旋转,心肺耐力,水中器械,老年人,Aquatic Tilts/Rotations,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+아쿠아로빅-엉덩관절 회전하기,심폐지구력,수중운동,어르신,水中髋关节旋转,心肺耐力,水中器械,老年人,Aquatic Hip Joint Rotations,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+아쿠아로빅-물누르기/올리기,심폐지구력,수중운동,어르신,水中压/举,心肺耐力,水中器械,老年人,Aquatic Press/Lift,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+고정식 트레드밀에서 걷기,심폐지구력,웨이트기계,어르신,固定跑步机步行,心肺耐力,健身器械,老年人,Walking on Fixed Treadmill,Cardiovascular Endurance,Weight Machine,Elderly
+스텝박스 오르내리기 ,심폐지구력,스텝박스,어르신,踏步箱上下,心肺耐力,踏步箱,老年人,Step Box Up and Down,Cardiovascular Endurance,Step Box,Elderly
+고정식 자전거 타기,심폐지구력,웨이트기계,어르신,固定自行车骑行,心肺耐力,健身器械,老年人,Stationary Bike Riding,Cardiovascular Endurance,Weight Machine,Elderly
+물속에서 걷기,심폐지구력,수중운동,어르신,水中行走,心肺耐力,水中器械,老年人,Walking in Water,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+아쿠아로빅,심폐지구력,수중운동,어르신,水中有氧运动,心肺耐力,水中器械,老年人,Aquatic Aerobics,Cardiovascular Endurance,Aquatic Exercise Equipment,Elderly
+스텝박스,심폐지구력,스텝박스,어르신,踏步箱,心肺耐力,踏步箱,老年人,Step Box,Cardiovascular Endurance,Step Box,Elderly
+의자이용 유연성운동 루틴 프로그램,유연성,의자,어르신,使用椅子的柔韧性运动计划,柔韧性,椅子,老年人,Chair-Based Flexibility Routine Program,Flexibility,Chair,Elderly
+요통을 위한 스트레칭1,유연성,맨몸,어르신,缓解腰痛的拉伸运动1,柔韧性,无,老年人,Stretching for Lower Back Pain1,Flexibility,None,Elderly
+의자 이용 평형성운동 루틴 프로그램,평형성,의자,어르신,使用椅子的平衡运动计划,平衡能力,椅子,老年人,Chair-Based Balance Routine Program,Balance,Chair,Elderly
+폼롤러 이용 유연성운동 루틴 프로그램,유연성,폼롤러,어르신,使用泡沫滚轴的柔韧性运动计划,柔韧性,泡沫滚轴,老年人,Foam Roller Flexibility Routine Program,Flexibility,Foam Roller,Elderly
+고혈압환자_심폐지구력운동,심폐지구력,맨몸,어르신,高血压患者的心肺耐力训练,心肺耐力,无,老年人,Cardiovascular Endurance Exercise for Hypertension Patients,Cardiovascular Endurance,None,Elderly
+의자 이용 근력운동 루틴 프로그램,근력/근지구력,의자,어르신,使用椅子的力量训练计划,肌力/肌耐力,椅子,老年人,Chair-Based Strength Training Routine Program,Muscle Strength/Muscular Endurance,Chair,Elderly
+관절염을 위한 근력운동1,근력/근지구력,맨몸,어르신,关节炎患者的力量训练1,肌力/肌耐力,无,老年人,Strength Training for Arthritis1,Muscle Strength/Muscular Endurance,None,Elderly
+관절염을 위한 근력운동2,근력/근지구력,맨몸,어르신,关节炎患者的力量训练2,肌力/肌耐力,无,老年人,Strength Training for Arthritis2,Muscle Strength/Muscular Endurance,None,Elderly
+치매를 위한 근력운동,근력/근지구력,맨몸,어르신,老年痴呆患者的力量训练,肌力/肌耐力,无,老年人,Strength Training for Dementia,Muscle Strength/Muscular Endurance,None,Elderly
+관절염을 위한 심폐지구력 운동,심폐지구력,맨몸,어르신,关节炎患者的心肺耐力训练,心肺耐力,无,老年人,Cardiovascular Endurance Training for Arthritis,Cardiovascular Endurance,None,Elderly
+골다공증을 위한 심폐지구력 운동,심폐지구력,맨몸,어르신,骨质疏松症患者的心肺耐力训练,心肺耐力,无,老年人,Cardiovascular Endurance Training for Osteoporosis,Cardiovascular Endurance,None,Elderly
+요통을 위한 스트레칭2,유연성,맨몸,어르신,针对下背部疼痛的伸展运动2,柔韧性,无,老年人,Stretches for Low Back Pain 2,Flexibility,None,Elderly
+골다공증을 위한 근력운동2,근력/근지구력,맨몸 또는 웨이트기계,어르신,骨质疏松症患者的力量训练2,肌力/肌耐力,无或哑铃,老年人,Strength Training for Osteoporosis 2,Muscle Strength/Muscular Endurance,None or Dumbbells,Elderly
+우울증을 위한 심폐지구력 운동,심폐지구력,맨몸 또는 실내자전거,어르신,抑郁症患者的心肺功能训练,心肺功能,无或室内自行车,老年人,Cardiovascular Exercise for Depression,Cardiovascular Endurance,None or Indoor Bicycle,Elderly
+의자잡고 서기 평형성운동 루틴 프로그램,평형성,의자,어르신,握椅子站立的平衡性运动常规程序,平衡性,椅子,老年人,Standing Balance Routine with Chair,Balance,Chair,Elderly
+골다공증을 위한 스트레칭,유연성,맨몸,어르신,针对骨质疏松的拉伸,柔韧性,无,老年人,Stretching for Osteoporosis,Flexibility,None,Elderly
+자기 체중 이용 평형성 운동 루틴 프로그램 ,평형성,맨몸,어르신,使用自身体重的平衡性运动常规程序,平衡性,无,老年人,Bodyweight Balance Exercise Routine,Balance,None,Elderly
+엎드려서 다리 굽히기,근력/근지구력,웨이트기계,어르신,仰卧腿部弯曲,肌力/肌耐力,杠铃器械,老年人,Leg Curl (Prone),Muscle Strength/Muscular Endurance,Weight Machine,Elderly
+골다공증을 위한 근력운동1,근력/근지구력,맨몸,어르신,针对骨质疏松的力量训练1,肌力/肌耐力,无,老年人,Strength Training for Osteoporosis 1,Muscle Strength/Muscular Endurance,None,Elderly
+짐볼 이용 근력운동 루틴 프로그램,근력/근지구력,짐볼,성인,使用健身球的力量训练常规程序,肌力/肌耐力,健身球,成年人,Strength Training Routine with Exercise Ball,Muscle Strength/Muscular Endurance,Exercise Ball,Adults
+머신이용 근력운동 루틴프로그램,근력/근지구력,웨이트기계,성인,使用器械的力量训练计划,肌力/肌耐力,重量训练器械,成年人,Machine-Based Strength Training Routine Program,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+밴드잡고 머리 위에서 팔꿈치 펴기,근력/근지구력,탄력밴드,성인,握住绷带从头上伸直肘部,肌力/肌耐力,皮筋带,成年人,Holding Band and Extending Elbows from Overhead,Muscle Strength/Muscular Endurance,Resistance Band,Adults
+탄력밴드 당기면서 팔 들어올리기,근력/근지구력,탄력밴드,성인,拉紧皮筋带同时抬起手臂,肌力/肌耐力,弹力带,成年人,Pulling Elastic Band while Raising Arms,Muscle Strength/Muscular Endurance,Resistance Band,Adults
+수건 이용하여 장딴지 늘리기,근력/근지구력,수건,성인,利用毛巾拉伸小腿肌肉,肌力/肌耐力,毛巾,成年人,Towel Stretch for Calves,Muscle Strength/Muscular Endurance,Towel,Adults
+수동적 관절가동범위 운동,근력/근지구력,맨몸,성인,被动关节活动范围运动,肌力/肌耐力,无,成年人,Passive Joint Range of Motion Exercise,Muscle Strength/Muscular Endurance,None,Adults
+등척성운동-바깥돌림,근력/근지구력,맨몸,성인,背部扭转运动-外侧转动,肌力/肌耐力,无,成年人,Back Rotational Exercise - Outward Rotation,Muscle Strength/Muscular Endurance,None,Adults
+등척성운동-안쪽 돌림,근력/근지구력,맨몸,성인,背部扭转运动-内侧转动,肌力/肌耐力,无,成年人,Back Rotational Exercise - Inward Rotation,Muscle Strength/Muscular Endurance,None,Adults
+수건잡고 팔 들어올리기,근력/근지구력,수건,성인,拉起手臂的毛巾,肌力/肌耐力,毛巾,成年人,Towel Pull-up,Muscle Strength/Muscular Endurance,Towel,Adults
+굽힘 밸런스운동-60~120도 사이,근력/근지구력,맨몸,성인,弯曲平衡运动-60~120度,肌力/肌耐力,无,成年人,Bending Balance Exercise - 60~120 Degrees,Muscle Strength/Muscular Endurance,None,Adults
+벌림 밸런스 운동-60~120도 사이,근력/근지구력,맨몸,성인,分开平衡运动-60~120度,肌力/肌耐力,无,成年人,Spreading Balance Exercise - 60~120 Degrees,Muscle Strength/Muscular Endurance,None,Adults
+등척성운동-벌림,근력/근지구력,맨몸,성인,背部扩展运动-展开,肌力/肌耐力,无,成年人,Back Extension Exercise - Spread,Muscle Strength/Muscular Endurance,None,Adults
+누워서 막대 잡고 팔 회전하기,근력/근지구력,막대,성인,仰卧持杆进行手臂旋转,肌力/肌耐力,杠铃,成年人,Lying Down Bar Rotation,Muscle Strength/Muscular Endurance,Barbell,Adults
+진자운동,근력/근지구력,맨몸,성인,脚踝转动,肌力/肌耐力,无,成年人,Ankle Circles,Muscle Strength/Muscular Endurance,None,Adults
+막대 잡고 대각선으로 팔 들어올리기,근력/근지구력,막대,성인,持杆斜向举手,肌力/肌耐力,杠铃,成年人,Barbell Diagonal Raise,Muscle Strength/Muscular Endurance,Barbell,Adults
+옆으로 누워서팔 앞으로 당기기,근력/근지구력,맨몸,성인,侧卧向前拉手臂,肌力/肌耐力,无,成年人,Side-Lying Arm Pull,Muscle Strength/Muscular Endurance,None,Adults
+테이블 이용하여 팔 들어 올리기,근력/근지구력,테이블,성인,利用桌子举手,肌力/肌耐力,桌子,成年人,Table Assisted Arm Raise,Muscle Strength/Muscular Endurance,Table,Adults
+누워서 막대 잡고 팔 들어올리기,근력/근지구력,막대,성인,仰卧持杆举臂,肌力/肌耐力,杠铃,成年人,Lying Down Barbell Arm Raise,Muscle Strength/Muscular Endurance,Barbell,Adults
+막대 잡고 팔 안쪽/바깥 돌림,근력/근지구력,막대,성인,握杆进行内/外旋,肌力/肌耐力,杠铃,成年人,Barbell Internal/External Rotation,Muscle Strength/Muscular Endurance,Barbell,Adults
+테이블 이용하여 팔 옆으로 벌리기,근력/근지구력,테이블,성인,利用桌子向两侧伸展手臂,肌力/肌耐力,桌子,成年人,Table Assisted Arm Lateral Raise,Muscle Strength/Muscular Endurance,Table,Adults
+유산소 운동 전 동적 루틴 스트레칭,유연성,맨몸,성인,有氧运动前动态拉伸,柔韧性,无,成年人,Dynamic Stretching Routine before Cardio Workout,Flexibility,None,Adults
+자가근막이완술 루틴 스트레칭,유연성,맨몸,성인,自我肌膜松解拉伸,柔韧性,无,成年人,Self-Myofascial Release Stretching Routine,Flexibility,None,Adults
+좌식생활자를 위한 동적 루틴 스트레칭 ,유연성,맨몸,성인,为久坐者设计的动态伸展,柔韧性,无,成年人,Dynamic Stretching Routine for Sedentary Individuals,Flexibility,None,Adults
+작은 공을 이용한 동적 루틴 스트레칭 ,유연성,공,성인,利用小球进行动态伸展,柔韧性,球,成年人,Dynamic Stretching Routine with Small Ball,Flexibility,Ball,Adults
+짐볼을 이용한 동적 루틴 스트레칭,유연성,짐볼,성인,利用健身球进行动态伸展,柔韧性,健身球,成年人,Dynamic Stretching Routine with Exercise Ball,Flexibility,Exercise Ball,Adults
+팔굽혀펴기(무릎대고 실시),평형성,맨몸,성인,弯举伸展（膝盖着地）,平衡性,无,成年人,Push-Up (Performed on Knees),Balance,None,Adults
+빠르게 걷기,평형성,맨몸,성인,快走,平衡性,无,成年人,Fast Walking,Balance,None,Adults
+좌 우 회전(목 좌 우 회전),유연성,맨몸,성인,左右旋转（颈部左右旋转）,柔韧性,无,成年人,Left-Right Rotation (Neck Left-Right Rotation),Flexibility,None,Adults
+물속에서 걷기,심폐지구력,수중운동,성인,水中行走,心肺耐力,水中运动器材,成年人,Walking in Water,Cardiovascular Endurance,Aquatic Exercise Equipment,Adults
+좌 우 굴곡(목 좌 우 굴곡),유연성,맨몸,성인,左右弯曲（颈部左右弯曲）,柔韧性,无,成年人,Left-Right Flexion (Neck Left-Right Flexion),Flexibility,None,Adults
+공에 엎드려서 상체 들어올리기,유연성,짐볼,성인,趴在球上提起上半身,柔韧性,健身球,成年人,Prone on Ball Upper Body Lift,Flexibility,Exercise Ball,Adults
+앞 뒤 굴곡(목 앞 뒤 굴곡),유연성,맨몸,성인,前后弯曲（颈部前后弯曲）,柔韧性,无,成年人,Forward-Backward Flexion (Neck Forward-Backward Flexion),Flexibility,None,Adults
+전신 루틴 스트레칭,유연성,맨몸,성인,全身拉伸例行,柔韧性,无,成年人,Full Body Stretch Routine,Flexibility,None,Adults
+상지 루틴 스트레칭,유연성,맨몸,성인,上肢拉伸例行,柔韧性,无,成年人,Upper Body Stretch Routine,Flexibility,None,Adults
+하지 루틴 스트레칭1,유연성,맨몸,성인,下肢拉伸例行1,柔韧性,无,成年人,Lower Body Stretch Routine 1,Flexibility,None,Adults
+하지 루틴 스트레칭2,유연성,맨몸,성인,下肢拉伸例行2,柔韧性,无,成年人,Lower Body Stretch Routine 2,Flexibility,None,Adults
+허리 스트레칭,유연성,맨몸,성인,腰部拉伸,柔韧性,无,成年人,Waist Stretching,Flexibility,None,Adults
+넙다리 뒤쪽 스트레칭,유연성,맨몸,성인,大腿后侧拉伸,柔韧性,无,成年人,Hamstring Stretch,Flexibility,None,Adults
+엉덩이 스트레칭,유연성,맨몸,성인,臀部拉伸,柔韧性,无,成年人,Hip Stretch,Flexibility,None,Adults
+배스트레칭,유연성,맨몸,성인,腹部拉伸,柔韧性,无,成年人,Abdominal Stretch,Flexibility,None,Adults
+넙다리 안쪽 스트레칭,유연성,맨몸,성인,大腿内侧拉伸,柔韧性,无,成年人,Inner Thigh Stretch,Flexibility,None,Adults
+넙다리 앞쪽 스트레칭,유연성,맨몸,성인,大腿前侧拉伸,柔韧性,无,成年人,Quadriceps Stretch,Flexibility,None,Adults
+옆구리 스트레칭,유연성,맨몸,성인,侧腰拉伸,柔韧性,无,成年人,Side Stretch,Flexibility,None,Adults
+아래 팔 스트레칭,유연성,맨몸,성인,下臂拉伸,柔韧性,无,成年人,Lower Arm Stretch,Flexibility,None,Adults
+버피운동,민첩성/순발력,맨몸,성인,蛙跳,敏捷性/速度,无,成年人,Burpee Exercise,Agility/Speed,None,Adults
+목 스트레칭,유연성,맨몸,성인,颈部拉伸,柔韧性,无,成年人,Neck Stretch,Flexibility,None,Adults
+등/어깨 뒤쪽 스트레칭,유연성,맨몸,성인,背部/肩部后侧拉伸,柔韧性,无,成年人,Upper Back/Shoulder Stretch,Flexibility,None,Adults
+팔벌려뛰기,민첩성/순발력,맨몸,성인,开合跳,敏捷性/速度,无,成年人,Jumping Jacks,Agility/Speed,None,Adults
+가슴/어깨 앞쪽 스트레칭,유연성,맨몸,성인,胸部/肩部前侧拉伸,柔韧性,无,成年人,Chest/Shoulder Front Stretch,Flexibility,None,Adults
+사다리 안팎 뛰기,민첩성/순발력,사다리,성인,跳跃练习,敏捷性/速度,梯子,成年人,Ladder Agility Jumps,Agility/Speed,Ladder,Adults
+사다리 옆으로 발 옮기기,민첩성/순발력,사다리,성인,横移练习,敏捷性/速度,梯子,成年人,Lateral Ladder Shuffle,Agility/Speed,Ladder,Adults
+계단 두발 뛰기,민첩성/순발력,맨몸,성인,双脚跳跃,敏捷性/速度,无,成年人,Stair Double Leg Jumps,Agility/Speed,None,Adults
+점프 팔굽혀펴기,민첩성/순발력,맨몸,성인,弹跳俯卧撑,敏捷性/速度,无,成年人,Jumping Push-Ups,Agility/Speed,None,Adults
+계단 두 칸씩 뛰기,민첩성/순발력,맨몸,성인,跳两步上台阶,敏捷性/速度,无,成年人,Double Stair Jumps,Agility/Speed,None,Adults
+계단 한발 뛰기,민첩성/순발력,맨몸,성인,单脚跳台阶,敏捷性/速度,无,成年人,Single Stair Jumps,Agility/Speed,None,Adults
+사다리 좌우 뛰기,민첩성/순발력,사다리,성인,横跳练习,敏捷性/速度,梯子,成年人,Lateral Ladder Jumps,Agility/Speed,Ladder,Adults
+무릎 높여 제자리 달리기,민첩성/순발력,맨몸,성인,高膝跑,敏捷性/速度,无,成年人,High Knee Running in Place,Agility/Speed,None,Adults
+앉았다 일어서면서 점프하기,민첩성/순발력,맨몸,성인,坐起跳,敏捷性/速度,无,成年人,Sit-Up Jumps,Agility/Speed,None,Adults
+스텝퍼 뛰어서 오르내리기,민첩성/순발력,스텝퍼,성인,踏步器上下跳,敏捷性/速度,踏步器,成年人,Step-Up and Down on Stepper,Agility/Speed,Stepper,Adults
+스텝퍼 옆으로 뛰어넘기,민첩성/순발력,스텝퍼,성인,踏步器侧跳,敏捷性/速度,踏步器,成年人,Lateral Jumps on Stepper,Agility/Speed,Stepper,Adults
+스텝퍼 오르내리기,민첩성/순발력,스텝퍼,성인,踏步器上下运动,敏捷性/速度,踏步器,成年人,Stepping Up and Down on Stepper,Agility/Speed,Stepper,Adults
+뛰어 내렸다가 바로 점프하기,민첩성/순발력,스텝퍼,성인,踏步器跳跃,敏捷性/速度,踏步器,成年人,Jumping Off Stepper,Agility/Speed,Stepper,Adults
+옆으로 펀치하기,민첩성/순발력,맨몸,성인,侧向冲拳,敏捷性/速度,无,成年人,Side Punches,Agility/Speed,None,Adults
+스텝퍼 올라가서 점프하여 착지하기,민첩성/순발력,스텝퍼,성인,踏步器跳跃着陆,敏捷性/速度,踏步器,成年人,Jumping onto Stepper and Landing,Agility/Speed,Stepper,Adults
+스텝퍼 뛰어서 넘어가기,민첩성/순발력,스텝퍼,성인,踏步器跳越,敏捷性/速度,踏步器,成年人,Jumping Over Stepper,Agility/Speed,Stepper,Adults
+목 굽힘/ 폄 III,근력/근지구력,맨몸,성인,俯身抬头 III,肌肉力量/耐力,无,成年人,Neck Flexion/Extension III,Muscular Strength/Endurance,None,Adults
+목 굽힘/ 폄 I,근력/근지구력,맨몸,성인,俯身抬头 I,肌肉力量/耐力,无,成年人,Neck Flexion/Extension I,Muscular Strength/Endurance,None,Adults
+목 굽힘/ 폄 II,근력/근지구력,맨몸,성인,俯身抬头 II,肌肉力量/耐力,无,成年人,Neck Flexion/Extension II,Muscular Strength/Endurance,None,Adults
+팔굽혀펴기,근력/근지구력,맨몸,성인,俯卧撑,肌肉力量/耐力,无,成年人,Push-Ups,Muscular Strength/Endurance,None,Adults
+뒤로 팔굽혀펴기,근력/근지구력,맨몸,성인,后仰俯卧撑,肌肉力量/耐力,无,成年人,Backward Push-Ups,Muscular Strength/Endurance,None,Adults
+팔꿈치 굽히기,근력/근지구력,물병,성인,弯曲肘部,肌肉力量/耐力,水瓶,成年人,Elbow Flexion,Muscular Strength/Endurance,Water Bottle,Adults
+물병 옆으로 들어올리기,근력/근지구력,물병,성인,侧向举起水瓶,肌肉力量/耐力,水瓶,成年人,Lateral Raise with Water Bottle,Muscular Strength/Endurance,Water Bottle,Adults
+허리 굽혀 팔 뒤로 들기,근력/근지구력,물병,성인,弯腰举起水瓶,肌肉力量/耐力,水瓶,成年人,Bend and Lift with Water Bottle,Muscular Strength/Endurance,Water Bottle,Adults
+네발기기 자세에서 다리 위로 뻗어올리기,근력/근지구력,맨몸,성인,四肢支撑状态下抬腿,肌肉力量/耐力,无,成年人,Leg Raise in Quadruped Position,Muscular Strength/Endurance,None,Adults
+네발기기 자세에서 손바닥으로 바닥밀기,근력/근지구력,맨몸,성인,四肢支撑状态下掌心推地,肌肉力量/耐力,无,成年人,Floor Push-Up in Quadruped Position,Muscular Strength/Endurance,None,Adults
+탄력밴드 어깨 가쪽 돌림 ,근력/근지구력,탄력밴드,성인,用弹力带进行肩部外旋,肌肉力量/耐力,弹力带,成年人,Shoulder External Rotation with Resistance Band,Muscular Strength/Endurance,Resistance Band,Adults
+서서 탄력밴드 당겨내리기/올리기,근력/근지구력,탄력밴드,성인,站立时使用弹力带下拉/上拉,肌肉力量/耐力,弹力带,成年人,Standing Pull-Down/Pull-Up with Resistance Band,Muscular Strength/Endurance,Resistance Band,Adults
+짐볼에 다리 올리고 좌우로 움직이기,근력/근지구력,짐볼,성인,在健身球上抬腿并左右摇摆,肌肉力量/耐力,健身球,成年人,Leg Lift and Side-to-Side Movement on Stability Ball,Muscular Strength/Endurance,Stability Ball,Adults
+짐볼에 엎드려서 몸통 젖히기,근력/근지구력,짐볼,성인,俯卧在健身球上做腹部训练,肌肉力量/耐力,健身球,成年人,Prone Trunk Extension on Stability Ball,Muscular Strength/Endurance,Stability Ball,Adults
+짐볼에 엎드려서 팔 다리 들기,근력/근지구력,짐볼,성인,俯卧在健身球上做臂部和腿部训练,肌肉力量/耐力,健身球,成年人,Prone Arm and Leg Lift on Stability Ball,Muscular Strength/Endurance,Stability Ball,Adults
+엎드려 버티기,근력/근지구력,맨몸,성인,仰卧支撑,肌肉力量/耐力,无,成年人,Plank,Muscular Strength/Endurance,None,Adults
+누워서 엉덩이 들어올리기,근력/근지구력,맨몸,성인,仰卧举臀,肌肉力量/耐力,无,成年人,Supine Hip Raise,Muscular Strength/Endurance,None,Adults
+누워서 다리 들어올리기,근력/근지구력,맨몸,성인,仰卧抬腿,肌力/肌耐力,无,成年人,Leg Raises While Lying Down,Muscle Strength/Muscular Endurance,None,Adults
+옆으로 누워 버티기,근력/근지구력,맨몸,성인,侧卧侧平衡,肌力/肌耐力,无,成年人,Side Plank Hold,Muscle Strength/Muscular Endurance,None,Adults
+네발기기 자세로 팔 다리 들기,근력/근지구력,맨몸,성인,四肢支撑站立抬臂抬腿,肌力/肌耐力,无,成年人,Quadruped Arm and Leg Lifts,Muscle Strength/Muscular Endurance,None,Adults
+엎드려서 팔 다리 들기,근력/근지구력,맨몸,성인,俯卧身体支撑抬臂抬腿,肌力/肌耐力,无,成年人,Prone Arm and Leg Lifts,Muscle Strength/Muscular Endurance,None,Adults
+누워서 팔 다리 동시에 들어올리기,근력/근지구력,맨몸,성인,仰卧抬臂抬腿,肌力/肌耐力,无,成年人,Supine Arm and Leg Raises,Muscle Strength/Muscular Endurance,None,Adults
+누워서 하늘 자전거,근력/근지구력,맨몸,성인,仰卧脚踏空,肌力/肌耐力,无,成年人,Supine Bicycle Crunches,Muscle Strength/Muscular Endurance,None,Adults
+누워서 다리 좌우로 움직이기,근력/근지구력,공,성인,仰卧侧向踢腿,肌力/肌耐力,球,成年人,Supine Leg Abduction/Adduction,Muscle Strength/Muscular Endurance,Ball,Adults
+누워서 수직으로 다리 들어올리기 ,근력/근지구력,맨몸,성인,仰卧抬腿,肌力/肌耐力,无,成年人,Supine Leg Raises,Muscle Strength/Muscular Endurance,None,Adults
+짐볼에 다리 올리고 엉덩이 들어올리기,근력/근지구력,짐볼,성인,瑜伽球踢腿抬臀,肌力/肌耐力,瑜伽球,成年人,Stability Ball Leg Raises and Hip Raises,Muscle Strength/Muscular Endurance,Stability Ball,Adults
+누워서 공들고 몸 기울이기,근력/근지구력,공,성인,仰卧持球侧身屈体,肌力/肌耐力,球,成年人,Supine Ball Side Bend,Muscle Strength/Muscular Endurance,Ball,Adults
+윗몸올리기 ,근력/근지구력,맨몸,성인,仰卧起坐,肌力/肌耐力,无,成年人,Sit-ups,Muscle Strength/Muscular Endurance,None,Adults
+소파를 이용한 윗몸올리기,근력/근지구력,맨몸,성인,使用沙发的仰卧起坐,肌力/肌耐力,无,成年人,Sofa Sit-ups,Muscle Strength/Muscular Endurance,None,Adults
+서서 뒤꿈치 들기,근력/근지구력,맨몸,성인,站立后跟提起,肌力/肌耐力,无,成年人,Standing Heel Raises,Muscle Strength/Muscular Endurance,None,Adults
+서서 다리 뒤로 차기,근력/근지구력,의자,성인,站立后踢腿,肌力/肌耐力,椅子,成年人,Standing Leg Back Kicks,Muscle Strength/Muscular Endurance,Chair,Adults
+짐볼 윗몸올리기,근력/근지구력,짐볼,성인,瑜伽球仰卧起坐,肌力/肌耐力,瑜伽球,成年人,Stability Ball Sit-ups,Muscle Strength/Muscular Endurance,Stability Ball,Adults
+누워서 배가로근 수축 II,근력/근지구력,맨몸,성인,仰卧屈体练腹肌 II,肌力/肌耐力,无,成年人,Supine Abdominal Crunch II,Muscle Strength/Muscular Endurance,None,Adults
+누워서 배가로근 수축 I,근력/근지구력,맨몸,성인,仰卧屈体练腹肌 I,肌力/肌耐力,无,成年人,Supine Abdominal Crunch I,Muscle Strength/Muscular Endurance,None,Adults
+서서 다리로 탄력밴드 당기기 II,근력/근지구력,탄력밴드,성인,站立用力拉伸弹力带 II,肌力/肌耐力,弹力带,成年人,Standing Leg Resistance Band Pull II,Muscle Strength/Muscular Endurance,Resistance Band,Adults
+서서 다리로 탄력밴드 당기기 I,근력/근지구력,탄력밴드,성인,站立用力拉伸弹力带 I,肌力/肌耐力,弹力带,成年人,Standing Leg Resistance Band Pull I,Muscle Strength/Muscular Endurance,Resistance Band,Adults
+앉아서 엉덩관절 굽히기,근력/근지구력,의자,성인,坐姿屈髋,肌力/肌耐力,椅子,成年人,Seated Hip Flexion,Muscle Strength/Muscular Endurance,Chair,Adults
+한발 서서 균형잡기,근력/근지구력,맨몸,성인,单脚站立平衡,肌力/肌耐力,无,成年人,Single Leg Standing Balance,Muscle Strength/Muscular Endurance,None,Adults
+발등굽힘/발바닥굽힘,근력/근지구력,맨몸,성인,脚背屈曲/脚底屈曲,肌力/肌耐力,无,成年人,Dorsiflexion/Plantar Flexion,Muscle Strength/Muscular Endurance,None,Adults
+앉았다 일어서기,근력/근지구력,맨몸,성인,坐起站立,肌力/肌耐力,无,成年人,Sit-to-Stand,Muscle Strength/Muscular Endurance,None,Adults
+한발 앞으로 내밀고 앉았다 일어서기,근력/근지구력,맨몸,성인,单腿前伸坐起站立,肌力/肌耐力,无,成年人,Single Leg Forward Sit-to-Stand,Muscle Strength/Muscular Endurance,None,Adults
+서서 상체 일으키기,근력/근지구력,물병,성인,站立仰卧起坐,肌力/肌耐力,水瓶,成年人,Standing Sit-up,Muscle Strength/Muscular Endurance,Water Bottle,Adults
+윗몸 말아 올리기,근력/근지구력,보슈볼,성인,仰卧起坐,肌力/肌耐力,瑜伽球,成年人,Abdominal Crunches,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+의자 앞에서 앉았다 일어서기,근력/근지구력,의자,성인,椅子前站起,肌力/肌耐力,椅子,成年人,Chair Stand-ups,Muscle Strength/Muscular Endurance,Chair,Adults
+의자에 한 다리 올리고 앉앗다 일어서기,근력/근지구력,의자,성인,单腿椅子站起,肌力/肌耐力,椅子,成年人,Single Leg Chair Stand-ups,Muscle Strength/Muscular Endurance,Chair,Adults
+의자에 앉아 다리 뻗어 올리기,근력/근지구력,의자,성인,坐在椅子上抬腿,肌力/肌耐力,椅子,成年人,Seated Leg Raises,Muscle Strength/Muscular Endurance,Chair,Adults
+서서 균형잡기,근력/근지구력,보슈볼,성인,站立平衡训练,肌力/肌耐力,Bosu球,成年人,Standing Balance Training,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+서서 균형잡으며 몸통 회전하기,근력/근지구력,보슈볼,성인,站立平衡中的身体旋转,肌力/肌耐力,Bosu球,成年人,Standing Balance with Torso Rotation,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+엎드려서 다리 차올리기,근력/근지구력,보슈볼,성인,仰卧抬腿,肌力/肌耐力,Bosu球,成年人,Leg Raises in Supine Position,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+엎드려서 균형잡기,근력/근지구력,보슈볼,성인,仰卧平衡训练,肌力/肌耐力,Bosu球,成年人,Prone Balance Training,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+짝 운동,근력/근지구력,보슈볼,성인,伴侣训练,肌力/肌耐力,Bosu球,成年人,Partner Workout,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+손목 펴기/굽히기,근력/근지구력,프리웨이트,성인,手腕屈伸/伸展,肌力/肌耐力,自由重量,成年人,Wrist Extension/Flexion,Muscle Strength/Muscular Endurance,Free Weights,Adults
+덤벨 옆으로 들어올리기,근력/근지구력,프리웨이트,성인,哑铃侧平举,肌力/肌耐力,自由重量,成年人,Dumbbell Lateral Raise,Muscle Strength/Muscular Endurance,Free Weights,Adults
+서서 바벨 위로 밀기,근력/근지구력,프리웨이트,성인,站立杠铃推举,肌力/肌耐力,自由重量,成年人,Standing Barbell Press,Muscle Strength/Muscular Endurance,Free Weights,Adults
+바벨 들어 팔꿈치 굽히기,근력/근지구력,프리웨이트,성인,杠铃弯举,肌力/肌耐力,自由重量,成年人,Barbell Curl,Muscle Strength/Muscular Endurance,Free Weights,Adults
+누워서 덤벨 들어올리기,근력/근지구력,프리웨이트,성인,仰卧举哑铃,肌力/肌耐力,自由重量,成年人,Dumbbell Press,Muscle Strength/Muscular Endurance,Free Weights,Adults
+몸통 옆으로 굽히기,근력/근지구력,프리웨이트,성인,侧身弯曲,肌力/肌耐力,自由重量,成年人,Side Bend,Muscle Strength/Muscular Endurance,Free Weights,Adults
+고정한 상태에서 덤벨 들고 팔꿈치 굽히기,근력/근지구력,프리웨이트,성인,固定状态下哑铃弯举,肌力/肌耐力,自由重量,成年人,Dumbbell Elbow Flexion in a Fixed Position,Muscle Strength/Muscular Endurance,Free Weights,Adults
+누워서 머리 위로 팔꿈치 펴기 ,근력/근지구력,프리웨이트,성인,仰卧下哑铃伸肘,肌力/肌耐力,自由重量,成年人,Supine Dumbbell Triceps Extension,Muscle Strength/Muscular Endurance,Free Weights,Adults
+허리 굽혀 덤벨 뒤로 들기,근력/근지구력,프리웨이트,성인,弯腰后举哑铃,肌力/肌耐力,自由重量,成年人,Bent-over Dumbbell Rear Delt Raise,Muscle Strength/Muscular Endurance,Free Weights,Adults
+앉아서 팔꿈치 굽히기/펴기 ,근력/근지구력,보슈볼,성인,坐姿弯举/伸展,肌力/肌耐力,稳定球,成年人,Seated Biceps Curl/Triceps Extension,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+매달려서 뒤로 팔굽혀 펴기,근력/근지구력,프리웨이트,성인,悬垂俯卧撑,肌力/肌耐力,自由重量,成年人,Hanging Back Extension,Muscle Strength/Muscular Endurance,Free Weights,Adults
+누워서 덤벨 모아들기,근력/근지구력,프리웨이트,성인,仰卧举哑铃,肌力/肌耐力,自由重量,成年人,Supine Dumbbell Chest Press,Muscle Strength/Muscular Endurance,Free Weights,Adults
+앉았다 일어서기,근력/근지구력,프리웨이트,성인,坐起站立,肌力/肌耐力,自由重量,成年人,Sit-to-Stand,Muscle Strength/Muscular Endurance,Free Weights,Adults
+턱걸이,근력/근지구력,프리웨이트,성인,引体向上,肌力/肌耐力,自由重量,成年人,Pull-up,Muscle Strength/Muscular Endurance,Free Weights,Adults
+한발 앞으로 내밀고 앉았다 일어서기,근력/근지구력,프리웨이트,성인,单脚弓步起立,肌力/肌耐力,自由重量,成年人,Single-Leg Forward Lunge,Muscle Strength/Muscular Endurance,Free Weights,Adults
+바벨들어올리기,근력/근지구력,프리웨이트,성인,杠铃举重,肌力/肌耐力,自由重量,成年人,Barbell Lift,Muscle Strength/Muscular Endurance,Free Weights,Adults
+바벨 끌어당기기,근력/근지구력,프리웨이트,성인,杠铃划船,肌力/肌耐力,自由重量,成年人,Barbell Row,Muscle Strength/Muscular Endurance,Free Weights,Adults
+앉아서 위로 밀기,근력/근지구력,웨이트기계,성인,坐姿推举,肌力/肌耐力,杠铃器械,成年人,Seated Press,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+원판던지기,근력/근지구력,프리웨이트,성인,扔盘子,肌力/肌耐力,自由重量,成年人,Plate Throw,Muscle Strength/Muscular Endurance,Free Weights,Adults
+허리 굽혀 덤벨 들기,근력/근지구력,프리웨이트,성인,弯腰举哑铃,肌力/肌耐力,自由重量,成年人,Dumbbell Bent-over Row,Muscle Strength/Muscular Endurance,Free Weights,Adults
+매달려서 다리 들기,근력/근지구력,프리웨이트,성인,悬垂抬腿,肌力/肌耐力,自由重量,成年人,Hanging Leg Raise,Muscle Strength/Muscular Endurance,Free Weights,Adults
+파워클린,근력/근지구력,프리웨이트,성인,力量挺举,肌力/肌耐力,自由重量,成年人,Power Clean,Muscle Strength/Muscular Endurance,Free Weights,Adults
+앉아서 모으기,근력/근지구력,웨이트기계,성인,坐姿合拢,肌力/肌耐力,杠铃器械,成年人,Seated Crunch,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+서서 어깨  들어올리기,근력/근지구력,프리웨이트,성인,站姿提肩,肌力/肌耐力,自由重量,成年人,Standing Shoulder Raise,Muscle Strength/Muscular Endurance,Free Weights,Adults
+앉아서 당겨 내리기,근력/근지구력,웨이트기계,성인,坐姿下拉,肌力/肌耐力,杠铃器械,成年人,Seated Lat Pulldown,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+뒤꿈치 들기,근력/근지구력,웨이트기계,성인,后臂举起,肌力/肌耐力,杠铃器械,成年人,Tricep Extension,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+앉아서 밀기,근력/근지구력,웨이트기계,성인,坐姿推举,肌力/肌耐力,杠铃器械,成年人,Seated Chest Press,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+앉아서 뒤로 당기기,근력/근지구력,웨이트기계,성인,坐姿划船,肌力/肌耐力,杠铃器械,成年人,Seated Row,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+앉아서 다리 굽히기,근력/근지구력,웨이트기계,성인,坐姿腿屈伸,肌力/肌耐力,杠铃器械,成年人,Seated Leg Curl,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+누워서 밀기,근력/근지구력,웨이트기계,성인,仰卧推举,肌力/肌耐力,杠铃器械,成年人,Bench Press,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+몸통 들어올리기,근력/근지구력,웨이트기계,성인,仰卧起坐,肌力/肌耐力,杠铃器械,成年人,Sit-up,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+앉아서 다리 모으기,근력/근지구력,웨이트기계,성인,坐姿腿收缩,肌力/肌耐力,杠铃器械,成年人,Seated Leg Press,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+앉아서 다리 벌리기,근력/근지구력,웨이트기계,성인,坐姿腿外展,肌力/肌耐力,杠铃器械,成年人,Seated Leg Abduction,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+앉아서 몸통 움츠리기,근력/근지구력,웨이트기계,성인,坐姿躯干屈伸,肌力/肌耐力,杠铃器械,成年人,Seated Torso Flexion,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+비스듬히 누워서 밀기,근력/근지구력,웨이트기계,성인,仰卧斜板推举,肌力/肌耐力,杠铃器械,成年人,Incline Bench Press,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+거꾸로 누워서 밀기,근력/근지구력,웨이트기계,성인,仰卧推举,肌力/肌耐力,杠铃器械,成年人,Bench Press (Supine),Muscle Strength/Muscular Endurance,Weight Machine,Adults
+계단 올라갔다 내려오기,심폐지구력,맨몸,성인,上下楼梯,心肺耐力,无,成年人,Stair Climbing,Cardiovascular Endurance,Bodyweight,Adults
+줄넘기,심폐지구력,줄넘기,성인,跳绳,心肺耐力,跳绳,成年人,Jump Rope,Cardiovascular Endurance,Jump Rope,Adults
+수영,심폐지구력,수중운동,성인,游泳,心肺耐力,水中运动,成年人,Swimming,Cardiovascular Endurance,Aquatic Exercise,Adults
+앉아서 다리 밀기,근력/근지구력,웨이트기계,성인,坐姿腿部推举,肌力/肌耐力,杠铃设备,成年人,Seated Leg Press,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+계단 뛰어 오르기,심폐지구력,수중운동,성인,登楼梯,心肺耐力,无,成年人,Stair Climbing,Cardiovascular Endurance,None,Adults
+앉아서 다리 펴기,근력/근지구력,웨이트기계,성인,坐姿腿部伸展,肌力/肌耐力,杠铃设备,成年人,Seated Leg Extension,Muscle Strength/Muscular Endurance,Weight Machine,Adults
+옆구리늘리기,심폐지구력,수중운동,성인,侧躺侧腰练习,心肺耐力,水中运动,成年人,Side-Lying Lateral Exercises,Cardiovascular Endurance,Aquatic Exercise,Adults
+물누르기/올리기,심폐지구력,수중운동,성인,推举/举起水,心肺耐力,水中运动,成年人,Pressing/Lifting Water,Cardiovascular Endurance,Aquatic Exercise,Adults
+발 닿기,심폐지구력,수중운동,성인,脚触地,心肺耐力,水中运动,成年人,Touching Toes,Cardiovascular Endurance,Aquatic Exercise,Adults
+몸 기울이기/회전하기,심폐지구력,수중운동,성인,身体倾斜/旋转,心肺耐力,水中运动,成年人,Tilting/Rotating Body,Cardiovascular Endurance,Aquatic Exercise,Adults
+엉덩관절 회전하기,심폐지구력,수중운동,성인,髋关节旋转,心肺耐力,水中运动,成年人,Hip Joint Rotation,Cardiovascular Endurance,Aquatic Exercise,Adults
+물당기기/밀기,심폐지구력,수중운동,성인,拉/推水,心肺耐力,水中运动,成年人,Pulling/Pushing Water,Cardiovascular Endurance,Aquatic Exercise,Adults
+달리기,심폐지구력,맨몸,성인,跑步,心肺耐力,无,成年人,Running,Cardiovascular Endurance,None,Adults
+실내 자전거타기,심폐지구력,자전거,성인,室内骑自行车,心肺耐力,自行车,成年人,Indoor Cycling,Cardiovascular Endurance,Bicycle,Adults
+트레드밀에서 걷기,심폐지구력,자전거,성인,跑步机步行,心肺耐力,跑步机,成年人,Treadmill Walking,Cardiovascular Endurance,Treadmill,Adults
+걷기,심폐지구력,맨몸,성인,步行,心肺耐力,无,成年人,Walking,Cardiovascular Endurance,None,Adults
+실외 자전거타기,심폐지구력,자전거,성인,室外骑自行车,心肺耐力,自行车,成年人,Outdoor Cycling,Cardiovascular Endurance,Bicycle,Adults
+고혈압환자_순환식 근력운동 프로그램,근력/근지구력,다양한 운동 도구,성인,高血压患者_循环力量训练程序,肌力/肌耐力,各种运动器材,成年人,Hypertension Patient_Circuit Strength Training Program,Muscle Strength/Muscular Endurance,Various Exercise Equipment,Adults
+치매를 위한 스트레칭(의자),유연성,의자,성인,针对痴呆症的拉伸（椅子）,柔韧性,椅子,成年人,Stretching for Dementia (Chair),Flexibility,Chair,Adults
+스텝박스 오르내리기,심폐지구력,스텝박스,성인,踏步箱上下,心肺耐力,踏步箱,成年人,Step Box Up and Down,Cardiovascular Endurance,Step Box,Adults
+윗몸올리기,근력/근지구력,맨몸,성인,仰卧起坐,肌力/肌耐力,无,成年人,Sit-ups,Muscle Strength/Muscular Endurance,None,Adults
+앉아서 팔꿈치 굽히기/펴기,근력/근지구력,보슈볼,성인,坐姿弯举/伸展,肌力/肌耐力,稳定球,成年人,Seated Biceps Curl/Triceps Extension,Muscle Strength/Muscular Endurance,Bosu Ball,Adults
+탄력밴드 어깨 가쪽 돌림,근력/근지구력,탄력밴드,성인,用弹力带进行肩部外旋,肌肉力量/耐力,弹力带,成年人,Shoulder External Rotation with Resistance Band,Muscular Strength/Endurance,Resistance Band,Adults
+누워서 수직으로 다리 들어올리기,근력/근지구력,맨몸,성인,仰卧抬腿,肌力/肌耐力,无,成年人,Supine Leg Raises,Muscle Strength/Muscular Endurance,None,Adults
+누워서 수직으로 다리 들어올리기,근력/근지구력,맨몸,성인,仰卧抬腿,肌力/肌耐力,无,成年人,Supine Leg Raises,Muscle Strength/Muscular Endurance,None,Adults
+좌식생활자를 위한 동적 루틴 스트레칭,유연성,맨몸,성인,为久坐者设计的动态伸展,柔韧性,无,成年人,Dynamic Stretching Routine for Sedentary Individuals,Flexibility,None,Adults
+누워서 머리 위로 팔꿈치 펴기,근력/근지구력,프리웨이트,성인,仰卧下哑铃伸肘,肌力/肌耐力,自由重量,成年人,Supine Dumbbell Triceps Extension,Muscle Strength/Muscular Endurance,Free Weights,Adults
